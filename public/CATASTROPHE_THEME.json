@@ -1,0 +1,1093 @@
+{
+  "total": 30,
+  "totalPages": 2,
+  "movies": [
+    {
+      "kinopoiskId": 2213,
+      "imdbId": "tt0120338",
+      "nameRu": "Титаник",
+      "nameEn": null,
+      "nameOriginal": "Titanic",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Мексика"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "триллер"
+        },
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "мелодрама"
+        },
+        {
+          "genre": "история"
+        }
+      ],
+      "ratingKinopoisk": 8.4,
+      "ratingImdb": 7.9,
+      "year": 1997,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/2213.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/2213.jpg",
+      "description": "В первом и последнем плавании шикарного «Титаника» встречаются двое. Пассажир нижней палубы Джек выиграл билет в карты, а богатая наследница Роза отправляется в Америку, чтобы выйти замуж по расчёту. Чувства молодых людей только успевают расцвести, и даже не классовые различия создадут испытания влюблённым, а айсберг, вставший на пути считавшегося непотопляемым лайнера.",
+      "filmLength": 194,
+      "trailers": [
+        {
+          "url": "https://www.youtube.com/v/l5gtS3pgA3Y",
+          "name": "Трейлер №2",
+          "site": "YOUTUBE"
+        },
+        {
+          "url": "https://widgets.kinopoisk.ru/discovery/trailer/3671?onlyPlayer=1&autoplay=1&cover=1",
+          "name": "промотрейлер",
+          "site": "KINOPOISK_WIDGET"
+        },
+        {
+          "url": "https://widgets.kinopoisk.ru/discovery/trailer/56701?onlyPlayer=1&autoplay=1&cover=1",
+          "name": "Трейлер 3D-релиза (дублированный)",
+          "site": "KINOPOISK_WIDGET"
+        },
+        {
+          "url": "https://www.youtube.com/v/lnfFxkTLdCU",
+          "name": "Blu-ray трейлер",
+          "site": "YOUTUBE"
+        },
+        {
+          "url": "https://www.youtube.com/v/r2p38QJxTvE",
+          "name": "Blu-ray трейлер (дублированный)",
+          "site": "YOUTUBE"
+        },
+        {
+          "url": "https://www.youtube.com/v/5d9ILag7mRA",
+          "name": "Трейлер 3D-релиза",
+          "site": "YOUTUBE"
+        },
+        {
+          "url": "https://youtu.be/P7f0LZU_xEU",
+          "name": "Трейлер к 25-летию фильма (дублированный)",
+          "site": "YOUTUBE"
+        },
+        {
+          "url": "https://trailers.s3.mds.yandex.net/video_original/187258-5162583918398116.mp4",
+          "name": "Трейлер к 25-летию фильма",
+          "site": "UNKNOWN"
+        },
+        {
+          "url": "https://www.youtube.com/v/NQcHoFJmH8E",
+          "name": "Трейлер",
+          "site": "YOUTUBE"
+        },
+        {
+          "url": "https://www.youtube.com/v/tXbGHqiAmME",
+          "name": "Трейлер ре-релиза",
+          "site": "YOUTUBE"
+        },
+        {
+          "url": "https://www.youtube.com/v/kHRa5LmzO7A",
+          "name": "Blu-ray трейлер №2",
+          "site": "YOUTUBE"
+        }
+      ]
+    },
+    {
+      "kinopoiskId": 839818,
+      "imdbId": "tt5653294",
+      "nameRu": "Экипаж",
+      "nameEn": null,
+      "nameOriginal": null,
+      "countries": [
+        {
+          "country": "Россия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "триллер"
+        },
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "приключения"
+        }
+      ],
+      "ratingKinopoisk": 7.6,
+      "ratingImdb": 6.6,
+      "year": 2016,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/839818.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/839818.jpg",
+      "description": "Талантливый молодой лётчик Алексей Гущин не признаёт авторитетов, предпочитая поступать в соответствии с личным кодексом чести. За невыполнение абсурдного приказа его выгоняют из военной авиации, и только чудом он получает шанс летать на гражданских самолётах. \n\nГущин начинает свою лётную жизнь сначала. Его наставник — командир воздушного судна — суровый и принципиальный Леонид Зинченко. Его коллега — второй пилот, неприступная красавица Александра. Отношения складываются непросто. Но на грани жизни и смерти, когда земля уходит из-под ног, вокруг — огонь и пепел, и только в небе есть спасение, Гущин показывает всё, на что он способен. Только вместе экипаж сможет совершить подвиг и спасти сотни жизней.",
+      "filmLength": 138,
+      "trailers": [
+        {
+          "url": "https://widgets.kinopoisk.ru/discovery/trailer/121179?onlyPlayer=1&autoplay=1&cover=1",
+          "name": "Тизер-трейлер",
+          "site": "KINOPOISK_WIDGET"
+        },
+        {
+          "url": "https://widgets.kinopoisk.ru/discovery/trailer/130288?onlyPlayer=1&autoplay=1&cover=1",
+          "name": "Трейлер №2",
+          "site": "KINOPOISK_WIDGET"
+        },
+        {
+          "url": "https://widgets.kinopoisk.ru/discovery/trailer/127868?onlyPlayer=1&autoplay=1&cover=1",
+          "name": "Трейлер",
+          "site": "KINOPOISK_WIDGET"
+        }
+      ]
+    },
+    {
+      "kinopoiskId": 2941,
+      "imdbId": "tt0120591",
+      "nameRu": "Армагеддон",
+      "nameEn": null,
+      "nameOriginal": "Armageddon",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "триллер"
+        },
+        {
+          "genre": "фантастика"
+        },
+        {
+          "genre": "приключения"
+        },
+        {
+          "genre": "боевик"
+        }
+      ],
+      "ratingKinopoisk": 7.8,
+      "ratingImdb": 6.7,
+      "year": 1998,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/2941.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/2941.jpg",
+      "description": "Тень гигантского астероида легла на Землю. До рокового столкновения остаются считанные дни. Наступает Армагеддон, трагический финал мировой истории. Чтобы предотвратить катастрофу, необходимо чудо - или совместные усилия лучших из лучших вместе с технологической мощью всего созданного человеком. Сможет ли горстка людей противостоять вселенской стихии?..",
+      "filmLength": 144,
+      "trailers": [
+        {
+          "url": "https://widgets.kinopoisk.ru/discovery/trailer/3640?onlyPlayer=1&autoplay=1&cover=1",
+          "name": "Трейлер",
+          "site": "KINOPOISK_WIDGET"
+        },
+        {
+          "url": "https://widgets.kinopoisk.ru/discovery/trailer/80770?onlyPlayer=1&autoplay=1&cover=1",
+          "name": "Трейлер №2 (русский язык)",
+          "site": "KINOPOISK_WIDGET"
+        },
+        {
+          "url": "https://widgets.kinopoisk.ru/discovery/trailer/80244?onlyPlayer=1&autoplay=1&cover=1",
+          "name": "Трейлер №2",
+          "site": "KINOPOISK_WIDGET"
+        }
+      ]
+    },
+    {
+      "kinopoiskId": 9298,
+      "imdbId": null,
+      "nameRu": "Выжить",
+      "nameEn": null,
+      "nameOriginal": "Alive",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Канада"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "триллер"
+        },
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "приключения"
+        },
+        {
+          "genre": "история"
+        }
+      ],
+      "ratingKinopoisk": 7.7,
+      "ratingImdb": 7.1,
+      "year": 1992,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/9298.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/9298.jpg",
+      "description": "Осенью 1972 года в пятницу тринадцатого октября над Андами потерпел катастрофу авиалайнер, на борту которого находилась школьная сборная по регби из Уругвая. Самолет рухнул на высокогорное плато, которое было полностью отрезано от внешнего мира.\n\nЗдесь, среди дикой стужи и трупов, горстке оставшихся в живых школьников предстоял жестокий, нечеловеческий тест на выживание. Семьдесят два бесконечных, мучительных дня молодые люди боролись за свою жизнь.\n\nУбежищем им служили обломки самолета, пищей - тела погибших товарищей. Иногда приходится превратиться в зверя, чтобы остаться человеком...",
+      "filmLength": 121,
+      "trailers": [
+        {
+          "url": "https://www.youtube.com/v/jLu1Ol7nZTA",
+          "name": "Трейлер",
+          "site": "YOUTUBE"
+        }
+      ]
+    },
+    {
+      "kinopoiskId": 2053,
+      "imdbId": "tt0319262",
+      "nameRu": "Послезавтра",
+      "nameEn": null,
+      "nameOriginal": "The Day After Tomorrow",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "триллер"
+        },
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "фантастика"
+        },
+        {
+          "genre": "приключения"
+        }
+      ],
+      "ratingKinopoisk": 7.7,
+      "ratingImdb": 6.5,
+      "year": 2004,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/2053.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/2053.jpg",
+      "description": "Земля уверенно движется навстречу глобальной экологической катастрофе: в одной части света все живое погибает от засухи, в другой - разбушевавшаяся водная стихия сносит города.\n\nБлизость катастрофы вынуждает ученого-климатолога, пытающегося найти способ остановить глобальное потепление, отправиться на поиски пропавшего сына в Нью-Йорк, в котором наступил новый ледниковый период…",
+      "filmLength": 124,
+      "trailers": [
+        {
+          "url": "https://widgets.kinopoisk.ru/discovery/trailer/497?onlyPlayer=1&autoplay=1&cover=1",
+          "name": "Трейлер",
+          "site": "KINOPOISK_WIDGET"
+        },
+        {
+          "url": "https://widgets.kinopoisk.ru/discovery/trailer/496?onlyPlayer=1&autoplay=1&cover=1",
+          "name": "Трейлер №2",
+          "site": "KINOPOISK_WIDGET"
+        },
+        {
+          "url": "http://www.filmz.ru/videos/files/download/10110/ultra/?url=http%3A%2F%2Fmedia.filmz.ru%2Ftrailer_rus%2Fd%2Fdayaftertomorrow_trailer_rus_640.mp4",
+          "name": "Трейлер (дублированный)",
+          "site": "UNKNOWN"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=HUBDFoMNXzA",
+          "name": "Трейлер №3",
+          "site": "YOUTUBE"
+        }
+      ]
+    },
+    {
+      "kinopoiskId": 2022,
+      "imdbId": "tt0116629",
+      "nameRu": "День независимости",
+      "nameEn": null,
+      "nameOriginal": "Independence Day",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "фантастика"
+        },
+        {
+          "genre": "приключения"
+        },
+        {
+          "genre": "боевик"
+        }
+      ],
+      "ratingKinopoisk": 7.6,
+      "ratingImdb": 7,
+      "year": 1996,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/2022.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/2022.jpg"
+    },
+    {
+      "kinopoiskId": 722,
+      "imdbId": "tt0267626",
+      "nameRu": "К-19",
+      "nameEn": null,
+      "nameOriginal": "K-19: The Widowmaker",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Великобритания"
+        },
+        {
+          "country": "Германия"
+        },
+        {
+          "country": "Канада"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "триллер"
+        },
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "военный"
+        },
+        {
+          "genre": "история"
+        }
+      ],
+      "ratingKinopoisk": 7.5,
+      "ratingImdb": 6.7,
+      "year": 2002,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/722.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/722.jpg"
+    },
+    {
+      "kinopoiskId": 2610,
+      "imdbId": null,
+      "nameRu": "Белый шквал",
+      "nameEn": null,
+      "nameOriginal": "White Squall",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Великобритания"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "приключения"
+        }
+      ],
+      "ratingKinopoisk": 7.4,
+      "ratingImdb": 6.6,
+      "year": 1995,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/2610.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/2610.jpg"
+    },
+    {
+      "kinopoiskId": 783,
+      "imdbId": "tt0177971",
+      "nameRu": "Идеальный шторм",
+      "nameEn": null,
+      "nameOriginal": "The Perfect Storm",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "триллер"
+        },
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "приключения"
+        },
+        {
+          "genre": "боевик"
+        }
+      ],
+      "ratingKinopoisk": 7.3,
+      "ratingImdb": 6.5,
+      "year": 2000,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/783.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/783.jpg"
+    },
+    {
+      "kinopoiskId": 102245,
+      "imdbId": "tt0448134",
+      "nameRu": "Пекло",
+      "nameEn": null,
+      "nameOriginal": "Sunshine",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Великобритания"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "триллер"
+        },
+        {
+          "genre": "фантастика"
+        }
+      ],
+      "ratingKinopoisk": 7.3,
+      "ratingImdb": 7.2,
+      "year": 2007,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/102245.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/102245.jpg"
+    },
+    {
+      "kinopoiskId": 8145,
+      "imdbId": "tt0072308",
+      "nameRu": "Вздымающийся ад",
+      "nameEn": null,
+      "nameOriginal": "The Towering Inferno",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "триллер"
+        },
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "боевик"
+        }
+      ],
+      "ratingKinopoisk": 7.2,
+      "ratingImdb": 7,
+      "year": 1974,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/8145.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/8145.jpg"
+    },
+    {
+      "kinopoiskId": 16257,
+      "imdbId": "tt0069113",
+      "nameRu": "Приключения «Посейдона»",
+      "nameEn": null,
+      "nameOriginal": "The Poseidon Adventure",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "триллер"
+        },
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "приключения"
+        },
+        {
+          "genre": "боевик"
+        }
+      ],
+      "ratingKinopoisk": 7.1,
+      "ratingImdb": 7.1,
+      "year": 1972,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/16257.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/16257.jpg"
+    },
+    {
+      "kinopoiskId": 1722,
+      "imdbId": "tt0117998",
+      "nameRu": "Смерч",
+      "nameEn": null,
+      "nameOriginal": "Twister",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "триллер"
+        },
+        {
+          "genre": "приключения"
+        },
+        {
+          "genre": "боевик"
+        }
+      ],
+      "ratingKinopoisk": 7.2,
+      "ratingImdb": 6.5,
+      "year": 1996,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1722.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1722.jpg"
+    },
+    {
+      "kinopoiskId": 521689,
+      "imdbId": null,
+      "nameRu": "Метро",
+      "nameEn": null,
+      "nameOriginal": null,
+      "countries": [
+        {
+          "country": "Россия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "триллер"
+        },
+        {
+          "genre": "драма"
+        }
+      ],
+      "ratingKinopoisk": 7.2,
+      "ratingImdb": 6.4,
+      "year": 2012,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/521689.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/521689.jpg"
+    },
+    {
+      "kinopoiskId": 81289,
+      "imdbId": "tt0407304",
+      "nameRu": "Война миров",
+      "nameEn": null,
+      "nameOriginal": "War of the Worlds",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "фантастика"
+        },
+        {
+          "genre": "приключения"
+        },
+        {
+          "genre": "боевик"
+        }
+      ],
+      "ratingKinopoisk": 7.1,
+      "ratingImdb": 6.5,
+      "year": 2005,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/81289.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/81289.jpg"
+    },
+    {
+      "kinopoiskId": 5011,
+      "imdbId": "tt0120647",
+      "nameRu": "Столкновение с бездной",
+      "nameEn": null,
+      "nameOriginal": "Deep Impact",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "триллер"
+        },
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "фантастика"
+        },
+        {
+          "genre": "боевик"
+        }
+      ],
+      "ratingKinopoisk": 7.1,
+      "ratingImdb": 6.2,
+      "year": 1998,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/5011.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/5011.jpg"
+    },
+    {
+      "kinopoiskId": 5506,
+      "imdbId": "tt0116040",
+      "nameRu": "Дневной свет",
+      "nameEn": null,
+      "nameOriginal": "Daylight",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "триллер"
+        },
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "приключения"
+        },
+        {
+          "genre": "боевик"
+        }
+      ],
+      "ratingKinopoisk": 7,
+      "ratingImdb": 5.9,
+      "year": 1996,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/5506.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/5506.jpg"
+    },
+    {
+      "kinopoiskId": 608559,
+      "imdbId": "tt2025690",
+      "nameRu": "И грянул шторм",
+      "nameEn": null,
+      "nameOriginal": "The Finest Hours",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "триллер"
+        },
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "боевик"
+        },
+        {
+          "genre": "история"
+        }
+      ],
+      "ratingKinopoisk": 7,
+      "ratingImdb": 6.7,
+      "year": 2016,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/608559.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/608559.jpg"
+    },
+    {
+      "kinopoiskId": 374718,
+      "imdbId": null,
+      "nameRu": "Монстро",
+      "nameEn": null,
+      "nameOriginal": "Cloverfield",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "триллер"
+        },
+        {
+          "genre": "детектив"
+        },
+        {
+          "genre": "фантастика"
+        },
+        {
+          "genre": "ужасы"
+        }
+      ],
+      "ratingKinopoisk": 6.9,
+      "ratingImdb": 7,
+      "year": 2007,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/374718.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/374718.jpg"
+    },
+    {
+      "kinopoiskId": 413447,
+      "imdbId": "tt1190080",
+      "nameRu": "2012",
+      "nameEn": null,
+      "nameOriginal": "2012",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "фантастика"
+        },
+        {
+          "genre": "приключения"
+        },
+        {
+          "genre": "боевик"
+        }
+      ],
+      "ratingKinopoisk": 6.9,
+      "ratingImdb": 5.8,
+      "year": 2009,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/413447.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/413447.jpg"
+    },
+    {
+      "kinopoiskId": 8177,
+      "imdbId": "tt0118928",
+      "nameRu": "Пик Данте",
+      "nameEn": null,
+      "nameOriginal": "Dante's Peak",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "триллер"
+        },
+        {
+          "genre": "приключения"
+        },
+        {
+          "genre": "боевик"
+        }
+      ],
+      "ratingKinopoisk": 6.9,
+      "ratingImdb": 6,
+      "year": 1997,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/8177.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/8177.jpg"
+    },
+    {
+      "kinopoiskId": 102510,
+      "imdbId": "tt0448011",
+      "nameRu": "Знамение",
+      "nameEn": null,
+      "nameOriginal": "Knowing",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Великобритания"
+        },
+        {
+          "country": "Австралия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "фантастика"
+        },
+        {
+          "genre": "боевик"
+        }
+      ],
+      "ratingKinopoisk": 6.9,
+      "ratingImdb": 6.2,
+      "year": 2009,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/102510.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/102510.jpg"
+    },
+    {
+      "kinopoiskId": 596001,
+      "imdbId": "tt1959490",
+      "nameRu": "Ной",
+      "nameEn": null,
+      "nameOriginal": "Noah",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "приключения"
+        },
+        {
+          "genre": "фэнтези"
+        }
+      ],
+      "ratingKinopoisk": 6.6,
+      "ratingImdb": 5.8,
+      "year": 2014,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/596001.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/596001.jpg"
+    },
+    {
+      "kinopoiskId": 4607,
+      "imdbId": "tt0120461",
+      "nameRu": "Вулкан",
+      "nameEn": null,
+      "nameOriginal": "Volcano",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "триллер"
+        },
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "фантастика"
+        },
+        {
+          "genre": "боевик"
+        }
+      ],
+      "ratingKinopoisk": 6.7,
+      "ratingImdb": 5.5,
+      "year": 1997,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/4607.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/4607.jpg"
+    },
+    {
+      "kinopoiskId": 81525,
+      "imdbId": "tt0409182",
+      "nameRu": "Посейдон",
+      "nameEn": null,
+      "nameOriginal": "Poseidon",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "триллер"
+        },
+        {
+          "genre": "приключения"
+        },
+        {
+          "genre": "боевик"
+        }
+      ],
+      "ratingKinopoisk": 6.5,
+      "ratingImdb": 5.7,
+      "year": 2006,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/81525.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/81525.jpg"
+    },
+    {
+      "kinopoiskId": 160979,
+      "imdbId": "tt0469641",
+      "nameRu": "Башни-близнецы",
+      "nameEn": null,
+      "nameOriginal": "World Trade Center",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Германия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "триллер"
+        },
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "история"
+        }
+      ],
+      "ratingKinopoisk": 6.5,
+      "ratingImdb": 6,
+      "year": 2006,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/160979.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/160979.jpg"
+    },
+    {
+      "kinopoiskId": 20158,
+      "imdbId": "tt0298814",
+      "nameRu": "Земное ядро",
+      "nameEn": null,
+      "nameOriginal": "The Core",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Франция"
+        },
+        {
+          "country": "Великобритания"
+        },
+        {
+          "country": "Германия"
+        },
+        {
+          "country": "Италия"
+        },
+        {
+          "country": "Канада"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "триллер"
+        },
+        {
+          "genre": "фантастика"
+        },
+        {
+          "genre": "приключения"
+        },
+        {
+          "genre": "боевик"
+        }
+      ],
+      "ratingKinopoisk": 6.2,
+      "ratingImdb": 5.5,
+      "year": 2003,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/20158.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/20158.jpg"
+    },
+    {
+      "kinopoiskId": 652692,
+      "imdbId": "tt2126355",
+      "nameRu": "Разлом Сан-Андреас",
+      "nameEn": null,
+      "nameOriginal": "San Andreas",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Австралия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "триллер"
+        },
+        {
+          "genre": "приключения"
+        },
+        {
+          "genre": "боевик"
+        }
+      ],
+      "ratingKinopoisk": 6.2,
+      "ratingImdb": 6.1,
+      "year": 2015,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/652692.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/652692.jpg"
+    },
+    {
+      "kinopoiskId": 588839,
+      "imdbId": "tt1921064",
+      "nameRu": "Помпеи",
+      "nameEn": null,
+      "nameOriginal": "Pompeii",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Великобритания"
+        },
+        {
+          "country": "Германия"
+        },
+        {
+          "country": "Канада"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "мелодрама"
+        },
+        {
+          "genre": "приключения"
+        },
+        {
+          "genre": "боевик"
+        }
+      ],
+      "ratingKinopoisk": 6.1,
+      "ratingImdb": 5.5,
+      "year": 2014,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/588839.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/588839.jpg"
+    },
+    {
+      "kinopoiskId": 427542,
+      "imdbId": "tt1217613",
+      "nameRu": "Инопланетное вторжение: Битва за Лос-Анджелес",
+      "nameEn": null,
+      "nameOriginal": "Battle: Los Angeles",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "фантастика"
+        },
+        {
+          "genre": "приключения"
+        },
+        {
+          "genre": "боевик"
+        }
+      ],
+      "ratingKinopoisk": 5.7,
+      "ratingImdb": 5.7,
+      "year": 2011,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/427542.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/427542.jpg"
+    }
+  ]
+}

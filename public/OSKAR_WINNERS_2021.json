@@ -1,0 +1,444 @@
+{
+  "total": 15,
+  "totalPages": 1,
+  "movies": [
+    {
+      "kinopoiskId": 1238506,
+      "imdbId": "tt9770150",
+      "nameRu": "Земля кочевников",
+      "nameEn": null,
+      "nameOriginal": "Nomadland",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Германия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        }
+      ],
+      "ratingKinopoisk": 7.2,
+      "ratingImdb": 7.3,
+      "year": 2020,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1238506.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1238506.jpg"
+    },
+    {
+      "kinopoiskId": 1262160,
+      "imdbId": "tt10272386",
+      "nameRu": "Отец",
+      "nameEn": null,
+      "nameOriginal": "The Father",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Франция"
+        },
+        {
+          "country": "Великобритания"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        }
+      ],
+      "ratingKinopoisk": 7.8,
+      "ratingImdb": 8.2,
+      "year": 2020,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1262160.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1262160.jpg"
+    },
+    {
+      "kinopoiskId": 1239696,
+      "imdbId": null,
+      "nameRu": "Иуда и чёрный мессия",
+      "nameEn": null,
+      "nameOriginal": "Judas and the Black Messiah",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "криминал"
+        },
+        {
+          "genre": "биография"
+        },
+        {
+          "genre": "история"
+        }
+      ],
+      "ratingKinopoisk": 6.4,
+      "ratingImdb": 7.4,
+      "year": 2020,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1239696.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1239696.jpg"
+    },
+    {
+      "kinopoiskId": 1286541,
+      "imdbId": "tt10633456",
+      "nameRu": "Минари",
+      "nameEn": null,
+      "nameOriginal": "Minari",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        }
+      ],
+      "ratingKinopoisk": 6.9,
+      "ratingImdb": 7.4,
+      "year": 2020,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1286541.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1286541.jpg"
+    },
+    {
+      "kinopoiskId": 1236567,
+      "imdbId": "tt9620292",
+      "nameRu": "Девушка, подающая надежды",
+      "nameEn": null,
+      "nameOriginal": "Promising Young Woman",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Великобритания"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "триллер"
+        },
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "криминал"
+        }
+      ],
+      "ratingKinopoisk": 6.8,
+      "ratingImdb": 7.5,
+      "year": 2020,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1236567.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1236567.jpg"
+    },
+    {
+      "kinopoiskId": 1263705,
+      "imdbId": "tt10288566",
+      "nameRu": "Еще по одной",
+      "nameEn": null,
+      "nameOriginal": "Druk",
+      "countries": [
+        {
+          "country": "Швеция"
+        },
+        {
+          "country": "Дания"
+        },
+        {
+          "country": "Нидерланды"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "комедия"
+        }
+      ],
+      "ratingKinopoisk": 7.6,
+      "ratingImdb": 7.7,
+      "year": 2020,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1263705.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1263705.jpg"
+    },
+    {
+      "kinopoiskId": 957883,
+      "imdbId": "tt5363618",
+      "nameRu": "Звук металла",
+      "nameEn": null,
+      "nameOriginal": "Sound of Metal",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Бельгия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "музыка"
+        }
+      ],
+      "ratingKinopoisk": 7.3,
+      "ratingImdb": 7.7,
+      "year": 2019,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/957883.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/957883.jpg"
+    },
+    {
+      "kinopoiskId": 1283862,
+      "imdbId": "tt10618286",
+      "nameRu": "Манк",
+      "nameEn": null,
+      "nameOriginal": "Mank",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "биография"
+        }
+      ],
+      "ratingKinopoisk": 7.1,
+      "ratingImdb": 6.8,
+      "year": 2020,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1283862.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1283862.jpg"
+    },
+    {
+      "kinopoiskId": 1236063,
+      "imdbId": "tt6723592",
+      "nameRu": "Довод",
+      "nameEn": null,
+      "nameOriginal": "Tenet",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Великобритания"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "триллер"
+        },
+        {
+          "genre": "фантастика"
+        },
+        {
+          "genre": "боевик"
+        }
+      ],
+      "ratingKinopoisk": 7.5,
+      "ratingImdb": 7.3,
+      "year": 2020,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1236063.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1236063.jpg"
+    },
+    {
+      "kinopoiskId": 1405676,
+      "imdbId": "tt12888462",
+      "nameRu": "Мой учитель-осьминог",
+      "nameEn": null,
+      "nameOriginal": "My Octopus Teacher",
+      "countries": [
+        {
+          "country": "ЮАР"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "документальный"
+        }
+      ],
+      "ratingKinopoisk": 8.2,
+      "ratingImdb": 8.1,
+      "year": 2020,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1405676.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1405676.jpg"
+    },
+    {
+      "kinopoiskId": 4380734,
+      "imdbId": "tt11643154",
+      "nameRu": "Колетт",
+      "nameEn": null,
+      "nameOriginal": "Colette",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "документальный"
+        },
+        {
+          "genre": "короткометражка"
+        }
+      ],
+      "ratingKinopoisk": 6.6,
+      "ratingImdb": 7.1,
+      "year": 2020,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/4380734.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/4380734.jpg"
+    },
+    {
+      "kinopoiskId": 1347450,
+      "imdbId": "tt11768948",
+      "nameRu": "Если что-то случится, я люблю вас.",
+      "nameEn": null,
+      "nameOriginal": "If Anything Happens I Love You",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "мультфильм"
+        },
+        {
+          "genre": "короткометражка"
+        }
+      ],
+      "ratingKinopoisk": 7.8,
+      "ratingImdb": 7.8,
+      "year": 2020,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1347450.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1347450.jpg"
+    },
+    {
+      "kinopoiskId": 1447016,
+      "imdbId": "tt13472984",
+      "nameRu": "Два далёких незнакомца",
+      "nameEn": null,
+      "nameOriginal": "Two Distant Strangers",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "фантастика"
+        },
+        {
+          "genre": "короткометражка"
+        }
+      ],
+      "ratingKinopoisk": 5.3,
+      "ratingImdb": 6.9,
+      "year": 2020,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1447016.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1447016.jpg"
+    },
+    {
+      "kinopoiskId": 1281709,
+      "imdbId": "tt10514222",
+      "nameRu": "Ма Рейни: Мать блюза",
+      "nameEn": null,
+      "nameOriginal": "Ma Rainey's Black Bottom",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "биография"
+        },
+        {
+          "genre": "музыка"
+        }
+      ],
+      "ratingKinopoisk": 6.3,
+      "ratingImdb": 6.9,
+      "year": 2020,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1281709.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1281709.jpg"
+    },
+    {
+      "kinopoiskId": 775273,
+      "imdbId": "tt2948372",
+      "nameRu": "Душа",
+      "nameEn": null,
+      "nameOriginal": "Soul",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Япония"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "приключения"
+        },
+        {
+          "genre": "фэнтези"
+        },
+        {
+          "genre": "комедия"
+        },
+        {
+          "genre": "музыка"
+        },
+        {
+          "genre": "мультфильм"
+        },
+        {
+          "genre": "семейный"
+        }
+      ],
+      "ratingKinopoisk": 8.4,
+      "ratingImdb": 8,
+      "year": 2020,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/775273.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/775273.jpg"
+    }
+  ]
+}

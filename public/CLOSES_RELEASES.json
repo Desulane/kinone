@@ -1,0 +1,159 @@
+{
+  "total": 6,
+  "totalPages": 1,
+  "movies": [
+    {
+      "kinopoiskId": 4489198,
+      "imdbId": "tt27526478",
+      "nameRu": "Три богатыря и Пуп Земли",
+      "nameEn": null,
+      "nameOriginal": null,
+      "countries": [
+        {
+          "country": "Россия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "приключения"
+        },
+        {
+          "genre": "мультфильм"
+        },
+        {
+          "genre": "семейный"
+        }
+      ],
+      "ratingKinopoisk": 5.7,
+      "ratingImdb": 5.7,
+      "year": 2023,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/4489198.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/4489198.jpg"
+    },
+    {
+      "kinopoiskId": 4635111,
+      "imdbId": null,
+      "nameRu": "Внутри убийцы",
+      "nameEn": null,
+      "nameOriginal": null,
+      "countries": [
+        {
+          "country": "Россия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "триллер"
+        },
+        {
+          "genre": "детектив"
+        }
+      ],
+      "ratingKinopoisk": null,
+      "ratingImdb": null,
+      "year": 2024,
+      "type": "TV_SERIES",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/4635111.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/4635111.jpg"
+    },
+    {
+      "kinopoiskId": 5249388,
+      "imdbId": null,
+      "nameRu": "Портной из Бруклина",
+      "nameEn": null,
+      "nameOriginal": null,
+      "countries": [
+        {
+          "country": "Россия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        }
+      ],
+      "ratingKinopoisk": null,
+      "ratingImdb": null,
+      "year": 2022,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/5249388.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/5249388.jpg"
+    },
+    {
+      "kinopoiskId": 1190266,
+      "imdbId": "tt8976696",
+      "nameRu": "Перси против корпораций",
+      "nameEn": null,
+      "nameOriginal": "Percy",
+      "countries": [
+        {
+          "country": "Канада"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "биография"
+        }
+      ],
+      "ratingKinopoisk": 6.4,
+      "ratingImdb": 6.4,
+      "year": 2020,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1190266.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1190266.jpg"
+    },
+    {
+      "kinopoiskId": 1237204,
+      "imdbId": "tt9601220",
+      "nameRu": "Чёрный медведь",
+      "nameEn": null,
+      "nameOriginal": "Black Bear",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        }
+      ],
+      "ratingKinopoisk": 6.4,
+      "ratingImdb": 6.5,
+      "year": 2020,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1237204.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1237204.jpg"
+    },
+    {
+      "kinopoiskId": 1331187,
+      "imdbId": "tt21387514",
+      "nameRu": "Игра киллеров",
+      "nameEn": null,
+      "nameOriginal": "Bohoja",
+      "countries": [
+        {
+          "country": "Корея Южная"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "криминал"
+        },
+        {
+          "genre": "боевик"
+        }
+      ],
+      "ratingKinopoisk": 5.9,
+      "ratingImdb": 6,
+      "year": 2022,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1331187.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1331187.jpg"
+    }
+  ]
+}

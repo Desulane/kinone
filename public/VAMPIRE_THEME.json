@@ -1,0 +1,954 @@
+{
+  "total": 30,
+  "totalPages": 2,
+  "movies": [
+    {
+      "kinopoiskId": 8151,
+      "imdbId": "tt0110148",
+      "nameRu": "Интервью с вампиром",
+      "nameEn": null,
+      "nameOriginal": "Interview with the Vampire: The Vampire Chronicles",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "фэнтези"
+        },
+        {
+          "genre": "ужасы"
+        }
+      ],
+      "ratingKinopoisk": 8,
+      "ratingImdb": 7.5,
+      "year": 1994,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/8151.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/8151.jpg"
+    },
+    {
+      "kinopoiskId": 1727,
+      "imdbId": "tt0103874",
+      "nameRu": "Дракула",
+      "nameEn": null,
+      "nameOriginal": "Bram Stoker's Dracula",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Великобритания"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "мелодрама"
+        },
+        {
+          "genre": "фэнтези"
+        },
+        {
+          "genre": "ужасы"
+        }
+      ],
+      "ratingKinopoisk": 7.8,
+      "ratingImdb": 7.4,
+      "year": 1992,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1727.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1727.jpg"
+    },
+    {
+      "kinopoiskId": 4815,
+      "imdbId": null,
+      "nameRu": "От заката до рассвета",
+      "nameEn": null,
+      "nameOriginal": "From Dusk Till Dawn",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Мексика"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "криминал"
+        },
+        {
+          "genre": "боевик"
+        },
+        {
+          "genre": "комедия"
+        },
+        {
+          "genre": "ужасы"
+        }
+      ],
+      "ratingKinopoisk": 7.8,
+      "ratingImdb": 7.2,
+      "year": 1995,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/4815.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/4815.jpg"
+    },
+    {
+      "kinopoiskId": 521,
+      "imdbId": "tt0013442",
+      "nameRu": "Носферату, симфония ужаса",
+      "nameEn": null,
+      "nameOriginal": "Nosferatu, eine Symphonie des Grauens",
+      "countries": [
+        {
+          "country": "Германия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "фэнтези"
+        },
+        {
+          "genre": "ужасы"
+        }
+      ],
+      "ratingKinopoisk": 7.6,
+      "ratingImdb": 7.9,
+      "year": 1922,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/521.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/521.jpg"
+    },
+    {
+      "kinopoiskId": 3491,
+      "imdbId": "tt0338526",
+      "nameRu": "Ван Хельсинг",
+      "nameEn": null,
+      "nameOriginal": "Van Helsing",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Чехия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "триллер"
+        },
+        {
+          "genre": "приключения"
+        },
+        {
+          "genre": "боевик"
+        },
+        {
+          "genre": "фэнтези"
+        }
+      ],
+      "ratingKinopoisk": 7.6,
+      "ratingImdb": 6.1,
+      "year": 2004,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/3491.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/3491.jpg"
+    },
+    {
+      "kinopoiskId": 8436,
+      "imdbId": "tt0021814",
+      "nameRu": "Дракула",
+      "nameEn": null,
+      "nameOriginal": "Dracula",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "фэнтези"
+        },
+        {
+          "genre": "ужасы"
+        }
+      ],
+      "ratingKinopoisk": 7.2,
+      "ratingImdb": 7.4,
+      "year": 1931,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/8436.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/8436.jpg"
+    },
+    {
+      "kinopoiskId": 565819,
+      "imdbId": "tt1714915",
+      "nameRu": "Выживут только любовники",
+      "nameEn": null,
+      "nameOriginal": "Only Lovers Left Alive",
+      "countries": [
+        {
+          "country": "Франция"
+        },
+        {
+          "country": "Великобритания"
+        },
+        {
+          "country": "Германия"
+        },
+        {
+          "country": "Греция"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "триллер"
+        },
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "фэнтези"
+        }
+      ],
+      "ratingKinopoisk": 7.4,
+      "ratingImdb": 7.2,
+      "year": 2013,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/565819.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/565819.jpg"
+    },
+    {
+      "kinopoiskId": 4554,
+      "imdbId": "tt0120611",
+      "nameRu": "Блэйд",
+      "nameEn": null,
+      "nameOriginal": "Blade",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "боевик"
+        },
+        {
+          "genre": "фэнтези"
+        },
+        {
+          "genre": "ужасы"
+        }
+      ],
+      "ratingKinopoisk": 7.3,
+      "ratingImdb": 7.1,
+      "year": 1998,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/4554.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/4554.jpg"
+    },
+    {
+      "kinopoiskId": 22872,
+      "imdbId": null,
+      "nameRu": "Носферату: Призрак ночи",
+      "nameEn": null,
+      "nameOriginal": "Nosferatu: Phantom der Nacht",
+      "countries": [
+        {
+          "country": "Франция"
+        },
+        {
+          "country": "Германия (ФРГ)"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "ужасы"
+        }
+      ],
+      "ratingKinopoisk": 7.2,
+      "ratingImdb": 7.4,
+      "year": 1978,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/22872.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/22872.jpg"
+    },
+    {
+      "kinopoiskId": 8033,
+      "imdbId": null,
+      "nameRu": "Другой мир",
+      "nameEn": null,
+      "nameOriginal": "Underworld",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Великобритания"
+        },
+        {
+          "country": "Германия"
+        },
+        {
+          "country": "Венгрия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "триллер"
+        },
+        {
+          "genre": "боевик"
+        },
+        {
+          "genre": "фэнтези"
+        }
+      ],
+      "ratingKinopoisk": 7.5,
+      "ratingImdb": 7,
+      "year": 2003,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/8033.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/8033.jpg"
+    },
+    {
+      "kinopoiskId": 9418,
+      "imdbId": "tt0085701",
+      "nameRu": "Голод",
+      "nameEn": null,
+      "nameOriginal": "The Hunger",
+      "countries": [
+        {
+          "country": "Великобритания"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "триллер"
+        },
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "мелодрама"
+        },
+        {
+          "genre": "ужасы"
+        }
+      ],
+      "ratingKinopoisk": 7,
+      "ratingImdb": 6.6,
+      "year": 1983,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/9418.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/9418.jpg"
+    },
+    {
+      "kinopoiskId": 12345,
+      "imdbId": "tt0089175",
+      "nameRu": "Ночь страха",
+      "nameEn": null,
+      "nameOriginal": "Fright Night",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "фэнтези"
+        },
+        {
+          "genre": "ужасы"
+        }
+      ],
+      "ratingKinopoisk": 6.8,
+      "ratingImdb": 7.1,
+      "year": 1985,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/12345.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/12345.jpg"
+    },
+    {
+      "kinopoiskId": 613,
+      "imdbId": "tt0187738",
+      "nameRu": "Блэйд 2",
+      "nameEn": null,
+      "nameOriginal": "Blade II",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Германия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "триллер"
+        },
+        {
+          "genre": "боевик"
+        },
+        {
+          "genre": "фэнтези"
+        },
+        {
+          "genre": "ужасы"
+        }
+      ],
+      "ratingKinopoisk": 6.8,
+      "ratingImdb": 6.7,
+      "year": 2002,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/613.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/613.jpg"
+    },
+    {
+      "kinopoiskId": 825,
+      "imdbId": "tt0189998",
+      "nameRu": "Тень вампира",
+      "nameEn": null,
+      "nameOriginal": "Shadow of the Vampire",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Великобритания"
+        },
+        {
+          "country": "Люксембург"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "ужасы"
+        }
+      ],
+      "ratingKinopoisk": 6.8,
+      "ratingImdb": 6.9,
+      "year": 2000,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/825.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/825.jpg"
+    },
+    {
+      "kinopoiskId": 264350,
+      "imdbId": "tt0762073",
+      "nameRu": "Жажда",
+      "nameEn": null,
+      "nameOriginal": "Bakjwi",
+      "countries": [
+        {
+          "country": "Корея Южная"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "мелодрама"
+        },
+        {
+          "genre": "ужасы"
+        }
+      ],
+      "ratingKinopoisk": 6.8,
+      "ratingImdb": 7.1,
+      "year": 2009,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/264350.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/264350.jpg"
+    },
+    {
+      "kinopoiskId": 4756,
+      "imdbId": "tt0093437",
+      "nameRu": "Пропащие ребята",
+      "nameEn": null,
+      "nameOriginal": "The Lost Boys",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "комедия"
+        },
+        {
+          "genre": "ужасы"
+        }
+      ],
+      "ratingKinopoisk": 6.7,
+      "ratingImdb": 7.2,
+      "year": 1987,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/4756.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/4756.jpg"
+    },
+    {
+      "kinopoiskId": 401177,
+      "imdbId": "tt1099212",
+      "nameRu": "Сумерки",
+      "nameEn": null,
+      "nameOriginal": "Twilight",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "мелодрама"
+        },
+        {
+          "genre": "фэнтези"
+        }
+      ],
+      "ratingKinopoisk": 6.7,
+      "ratingImdb": 5.3,
+      "year": 2008,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/401177.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/401177.jpg"
+    },
+    {
+      "kinopoiskId": 427795,
+      "imdbId": "tt1228987",
+      "nameRu": "Впусти меня. Сага",
+      "nameEn": null,
+      "nameOriginal": "Let Me In",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Великобритания"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "фэнтези"
+        },
+        {
+          "genre": "ужасы"
+        }
+      ],
+      "ratingKinopoisk": 6.6,
+      "ratingImdb": 7.1,
+      "year": 2010,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/427795.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/427795.jpg"
+    },
+    {
+      "kinopoiskId": 195718,
+      "imdbId": "tt0433362",
+      "nameRu": "Воины света",
+      "nameEn": null,
+      "nameOriginal": "Daybreakers",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Австралия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "триллер"
+        },
+        {
+          "genre": "фантастика"
+        },
+        {
+          "genre": "боевик"
+        },
+        {
+          "genre": "ужасы"
+        }
+      ],
+      "ratingKinopoisk": 6.6,
+      "ratingImdb": 6.4,
+      "year": 2009,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/195718.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/195718.jpg"
+    },
+    {
+      "kinopoiskId": 2495,
+      "imdbId": "tt0104511",
+      "nameRu": "Кровь невинных",
+      "nameEn": null,
+      "nameOriginal": "Innocent Blood",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "криминал"
+        },
+        {
+          "genre": "мелодрама"
+        },
+        {
+          "genre": "боевик"
+        },
+        {
+          "genre": "комедия"
+        },
+        {
+          "genre": "ужасы"
+        }
+      ],
+      "ratingKinopoisk": 6.2,
+      "ratingImdb": 6.2,
+      "year": 1992,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/2495.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/2495.jpg"
+    },
+    {
+      "kinopoiskId": 467118,
+      "imdbId": "tt1438176",
+      "nameRu": "Ночь страха",
+      "nameEn": null,
+      "nameOriginal": "Fright Night",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Индия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "триллер"
+        },
+        {
+          "genre": "комедия"
+        },
+        {
+          "genre": "ужасы"
+        }
+      ],
+      "ratingKinopoisk": 6.6,
+      "ratingImdb": 6.4,
+      "year": 2011,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/467118.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/467118.jpg"
+    },
+    {
+      "kinopoiskId": 6904,
+      "imdbId": null,
+      "nameRu": "Зависимость",
+      "nameEn": null,
+      "nameOriginal": "The Addiction",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "ужасы"
+        }
+      ],
+      "ratingKinopoisk": 6.3,
+      "ratingImdb": 6.4,
+      "year": 1994,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/6904.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/6904.jpg"
+    },
+    {
+      "kinopoiskId": 472368,
+      "imdbId": "tt1496025",
+      "nameRu": "Другой мир: Пробуждение",
+      "nameEn": null,
+      "nameOriginal": "Underworld: Awakening",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Канада"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "фантастика"
+        },
+        {
+          "genre": "боевик"
+        },
+        {
+          "genre": "фэнтези"
+        },
+        {
+          "genre": "ужасы"
+        }
+      ],
+      "ratingKinopoisk": 6.3,
+      "ratingImdb": 6.3,
+      "year": 2012,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/472368.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/472368.jpg"
+    },
+    {
+      "kinopoiskId": 542576,
+      "imdbId": "tt1692504",
+      "nameRu": "Вкус ночи",
+      "nameEn": null,
+      "nameOriginal": "Wir sind die Nacht",
+      "countries": [
+        {
+          "country": "Германия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "мелодрама"
+        },
+        {
+          "genre": "фэнтези"
+        },
+        {
+          "genre": "ужасы"
+        }
+      ],
+      "ratingKinopoisk": 6.3,
+      "ratingImdb": 6.2,
+      "year": 2010,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/542576.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/542576.jpg"
+    },
+    {
+      "kinopoiskId": 20793,
+      "imdbId": "tt0098577",
+      "nameRu": "Поцелуй вампира",
+      "nameEn": null,
+      "nameOriginal": "Vampire's Kiss",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "криминал"
+        },
+        {
+          "genre": "фэнтези"
+        },
+        {
+          "genre": "комедия"
+        },
+        {
+          "genre": "ужасы"
+        }
+      ],
+      "ratingKinopoisk": 6.3,
+      "ratingImdb": 6.1,
+      "year": 1988,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/20793.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/20793.jpg"
+    },
+    {
+      "kinopoiskId": 26056,
+      "imdbId": "tt0027545",
+      "nameRu": "Дочь Дракулы",
+      "nameEn": null,
+      "nameOriginal": "Dracula's Daughter",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "фэнтези"
+        },
+        {
+          "genre": "ужасы"
+        }
+      ],
+      "ratingKinopoisk": 6,
+      "ratingImdb": 6.3,
+      "year": 1936,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/26056.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/26056.jpg"
+    },
+    {
+      "kinopoiskId": 483364,
+      "imdbId": "tt1531901",
+      "nameRu": "Византия",
+      "nameEn": null,
+      "nameOriginal": "Byzantium",
+      "countries": [
+        {
+          "country": "Великобритания"
+        },
+        {
+          "country": "Ирландия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "триллер"
+        },
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "фэнтези"
+        },
+        {
+          "genre": "ужасы"
+        }
+      ],
+      "ratingKinopoisk": 6.2,
+      "ratingImdb": 6.5,
+      "year": 2012,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/483364.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/483364.jpg"
+    },
+    {
+      "kinopoiskId": 102393,
+      "imdbId": "tt0450405",
+      "nameRu": "История одного вампира",
+      "nameEn": null,
+      "nameOriginal": "Cirque du Freak: The Vampire's Assistant",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "триллер"
+        },
+        {
+          "genre": "приключения"
+        },
+        {
+          "genre": "боевик"
+        },
+        {
+          "genre": "фэнтези"
+        }
+      ],
+      "ratingKinopoisk": 6,
+      "ratingImdb": 5.8,
+      "year": 2009,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/102393.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/102393.jpg"
+    },
+    {
+      "kinopoiskId": 258759,
+      "imdbId": "tt0822847",
+      "nameRu": "Пастырь",
+      "nameEn": null,
+      "nameOriginal": "Priest",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "триллер"
+        },
+        {
+          "genre": "фантастика"
+        },
+        {
+          "genre": "боевик"
+        },
+        {
+          "genre": "фэнтези"
+        },
+        {
+          "genre": "ужасы"
+        }
+      ],
+      "ratingKinopoisk": 6,
+      "ratingImdb": 5.7,
+      "year": 2011,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/258759.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/258759.jpg"
+    },
+    {
+      "kinopoiskId": 31517,
+      "imdbId": "tt0092147",
+      "nameRu": "Вамп",
+      "nameEn": null,
+      "nameOriginal": "Vamp",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "фэнтези"
+        },
+        {
+          "genre": "комедия"
+        },
+        {
+          "genre": "ужасы"
+        }
+      ],
+      "ratingKinopoisk": 5.6,
+      "ratingImdb": 5.9,
+      "year": 1986,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/31517.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/31517.jpg"
+    }
+  ]
+}

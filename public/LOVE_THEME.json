@@ -1,0 +1,2048 @@
+{
+  "total": 70,
+  "totalPages": 4,
+  "movies": [
+    {
+      "kinopoiskId": 381,
+      "imdbId": "tt0118799",
+      "nameRu": "Жизнь прекрасна",
+      "nameEn": null,
+      "nameOriginal": "La vita è bella",
+      "countries": [
+        {
+          "country": "Италия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "мелодрама"
+        },
+        {
+          "genre": "комедия"
+        },
+        {
+          "genre": "военный"
+        }
+      ],
+      "ratingKinopoisk": 8.6,
+      "ratingImdb": 8.6,
+      "year": 1997,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/381.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/381.jpg"
+    },
+    {
+      "kinopoiskId": 356,
+      "imdbId": "tt0053291",
+      "nameRu": "В джазе только девушки",
+      "nameEn": null,
+      "nameOriginal": "Some Like It Hot",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "криминал"
+        },
+        {
+          "genre": "мелодрама"
+        },
+        {
+          "genre": "комедия"
+        },
+        {
+          "genre": "музыка"
+        }
+      ],
+      "ratingKinopoisk": 8.5,
+      "ratingImdb": 8.2,
+      "year": 1959,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/356.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/356.jpg"
+    },
+    {
+      "kinopoiskId": 456,
+      "imdbId": null,
+      "nameRu": "Унесённые ветром",
+      "nameEn": null,
+      "nameOriginal": "Gone with the Wind",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "мелодрама"
+        },
+        {
+          "genre": "военный"
+        },
+        {
+          "genre": "история"
+        }
+      ],
+      "ratingKinopoisk": 8.4,
+      "ratingImdb": 8.2,
+      "year": 1939,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/456.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/456.jpg"
+    },
+    {
+      "kinopoiskId": 2213,
+      "imdbId": "tt0120338",
+      "nameRu": "Титаник",
+      "nameEn": null,
+      "nameOriginal": "Titanic",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Мексика"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "триллер"
+        },
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "мелодрама"
+        },
+        {
+          "genre": "история"
+        }
+      ],
+      "ratingKinopoisk": 8.4,
+      "ratingImdb": 7.9,
+      "year": 1997,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/2213.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/2213.jpg"
+    },
+    {
+      "kinopoiskId": 497,
+      "imdbId": "tt0046250",
+      "nameRu": "Римские каникулы",
+      "nameEn": null,
+      "nameOriginal": "Roman Holiday",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Италия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "мелодрама"
+        },
+        {
+          "genre": "комедия"
+        }
+      ],
+      "ratingKinopoisk": 8.3,
+      "ratingImdb": 8,
+      "year": 1953,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/497.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/497.jpg"
+    },
+    {
+      "kinopoiskId": 3561,
+      "imdbId": "tt0332280",
+      "nameRu": "Дневник памяти",
+      "nameEn": null,
+      "nameOriginal": "The Notebook",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "мелодрама"
+        }
+      ],
+      "ratingKinopoisk": 8.2,
+      "ratingImdb": 7.8,
+      "year": 2004,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/3561.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/3561.jpg"
+    },
+    {
+      "kinopoiskId": 10156,
+      "imdbId": "tt0060522",
+      "nameRu": "Как украсть миллион",
+      "nameEn": null,
+      "nameOriginal": "How to Steal a Million",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "криминал"
+        },
+        {
+          "genre": "мелодрама"
+        },
+        {
+          "genre": "комедия"
+        }
+      ],
+      "ratingKinopoisk": 8.2,
+      "ratingImdb": 7.5,
+      "year": 1966,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/10156.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/10156.jpg"
+    },
+    {
+      "kinopoiskId": 45660,
+      "imdbId": null,
+      "nameRu": "Вам и не снилось...",
+      "nameEn": null,
+      "nameOriginal": null,
+      "countries": [
+        {
+          "country": "СССР"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "мелодрама"
+        }
+      ],
+      "ratingKinopoisk": 8.2,
+      "ratingImdb": 7.8,
+      "year": 1980,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/45660.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/45660.jpg"
+    },
+    {
+      "kinopoiskId": 1991,
+      "imdbId": "tt0099653",
+      "nameRu": "Привидение",
+      "nameEn": null,
+      "nameOriginal": "Ghost",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "триллер"
+        },
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "мелодрама"
+        },
+        {
+          "genre": "фэнтези"
+        }
+      ],
+      "ratingKinopoisk": 8.2,
+      "ratingImdb": 7.1,
+      "year": 1990,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1991.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1991.jpg"
+    },
+    {
+      "kinopoiskId": 17721,
+      "imdbId": "tt0054698",
+      "nameRu": "Завтрак у Тиффани",
+      "nameEn": null,
+      "nameOriginal": "Breakfast at Tiffany's",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "мелодрама"
+        },
+        {
+          "genre": "комедия"
+        }
+      ],
+      "ratingKinopoisk": 8.1,
+      "ratingImdb": 7.6,
+      "year": 1961,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/17721.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/17721.jpg"
+    },
+    {
+      "kinopoiskId": 1996,
+      "imdbId": "tt0092890",
+      "nameRu": "Грязные танцы",
+      "nameEn": null,
+      "nameOriginal": "Dirty Dancing",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "мелодрама"
+        },
+        {
+          "genre": "музыка"
+        }
+      ],
+      "ratingKinopoisk": 8,
+      "ratingImdb": 7,
+      "year": 1987,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1996.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1996.jpg"
+    },
+    {
+      "kinopoiskId": 330,
+      "imdbId": "tt0034583",
+      "nameRu": "Касабланка",
+      "nameEn": null,
+      "nameOriginal": "Casablanca",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "мелодрама"
+        }
+      ],
+      "ratingKinopoisk": 8,
+      "ratingImdb": 8.5,
+      "year": 1942,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/330.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/330.jpg"
+    },
+    {
+      "kinopoiskId": 5492,
+      "imdbId": "tt0338013",
+      "nameRu": "Вечное сияние чистого разума",
+      "nameEn": null,
+      "nameOriginal": "Eternal Sunshine of the Spotless Mind",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "мелодрама"
+        },
+        {
+          "genre": "фантастика"
+        }
+      ],
+      "ratingKinopoisk": 8,
+      "ratingImdb": 8.3,
+      "year": 2004,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/5492.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/5492.jpg"
+    },
+    {
+      "kinopoiskId": 341,
+      "imdbId": "tt0211915",
+      "nameRu": "Амели",
+      "nameEn": null,
+      "nameOriginal": "Le Fabuleux destin d'Amélie Poulain",
+      "countries": [
+        {
+          "country": "Франция"
+        },
+        {
+          "country": "Германия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "мелодрама"
+        },
+        {
+          "genre": "комедия"
+        }
+      ],
+      "ratingKinopoisk": 8,
+      "ratingImdb": 8.3,
+      "year": 2001,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/341.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/341.jpg"
+    },
+    {
+      "kinopoiskId": 437,
+      "imdbId": "tt0025316",
+      "nameRu": "Это случилось однажды ночью",
+      "nameEn": null,
+      "nameOriginal": "It Happened One Night",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "мелодрама"
+        },
+        {
+          "genre": "комедия"
+        }
+      ],
+      "ratingKinopoisk": 7.9,
+      "ratingImdb": 8.1,
+      "year": 1934,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/437.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/437.jpg"
+    },
+    {
+      "kinopoiskId": 81733,
+      "imdbId": "tt0414387",
+      "nameRu": "Гордость и предубеждение",
+      "nameEn": null,
+      "nameOriginal": "Pride & Prejudice",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Франция"
+        },
+        {
+          "country": "Великобритания"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "мелодрама"
+        }
+      ],
+      "ratingKinopoisk": 8.1,
+      "ratingImdb": 7.8,
+      "year": 2005,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/81733.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/81733.jpg"
+    },
+    {
+      "kinopoiskId": 1886,
+      "imdbId": "tt0112579",
+      "nameRu": "Мосты округа Мэдисон",
+      "nameEn": null,
+      "nameOriginal": "The Bridges of Madison County",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "мелодрама"
+        }
+      ],
+      "ratingKinopoisk": 8,
+      "ratingImdb": 7.6,
+      "year": 1995,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1886.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1886.jpg"
+    },
+    {
+      "kinopoiskId": 77132,
+      "imdbId": "tt0397535",
+      "nameRu": "Мемуары гейши",
+      "nameEn": null,
+      "nameOriginal": "Memoirs of a Geisha",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Франция"
+        },
+        {
+          "country": "Япония"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "мелодрама"
+        }
+      ],
+      "ratingKinopoisk": 8,
+      "ratingImdb": 7.3,
+      "year": 2005,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/77132.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/77132.jpg"
+    },
+    {
+      "kinopoiskId": 463724,
+      "imdbId": "tt1343092",
+      "nameRu": "Великий Гэтсби",
+      "nameEn": null,
+      "nameOriginal": "The Great Gatsby",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Австралия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "мелодрама"
+        }
+      ],
+      "ratingKinopoisk": 7.9,
+      "ratingImdb": 7.2,
+      "year": 2013,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/463724.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/463724.jpg"
+    },
+    {
+      "kinopoiskId": 539550,
+      "imdbId": "tt1655442",
+      "nameRu": "Артист",
+      "nameEn": null,
+      "nameOriginal": "The Artist",
+      "countries": [
+        {
+          "country": "Франция"
+        },
+        {
+          "country": "Бельгия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "мелодрама"
+        },
+        {
+          "genre": "комедия"
+        }
+      ],
+      "ratingKinopoisk": 8,
+      "ratingImdb": 7.9,
+      "year": 2011,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/539550.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/539550.jpg"
+    },
+    {
+      "kinopoiskId": 81584,
+      "imdbId": "tt0405743",
+      "nameRu": "Босиком по мостовой",
+      "nameEn": null,
+      "nameOriginal": "Barfuss",
+      "countries": [
+        {
+          "country": "Германия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "мелодрама"
+        },
+        {
+          "genre": "комедия"
+        }
+      ],
+      "ratingKinopoisk": 7.9,
+      "ratingImdb": 7.1,
+      "year": 2005,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/81584.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/81584.jpg"
+    },
+    {
+      "kinopoiskId": 8125,
+      "imdbId": "tt0100405",
+      "nameRu": "Красотка",
+      "nameEn": null,
+      "nameOriginal": "Pretty Woman",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "мелодрама"
+        },
+        {
+          "genre": "комедия"
+        }
+      ],
+      "ratingKinopoisk": 8,
+      "ratingImdb": 7.1,
+      "year": 1990,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/8125.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/8125.jpg"
+    },
+    {
+      "kinopoiskId": 8143,
+      "imdbId": "tt0103855",
+      "nameRu": "Телохранитель",
+      "nameEn": null,
+      "nameOriginal": "The Bodyguard",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "триллер"
+        },
+        {
+          "genre": "мелодрама"
+        },
+        {
+          "genre": "музыка"
+        }
+      ],
+      "ratingKinopoisk": 7.9,
+      "ratingImdb": 6.4,
+      "year": 1992,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/8143.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/8143.jpg"
+    },
+    {
+      "kinopoiskId": 6144,
+      "imdbId": "tt0314331",
+      "nameRu": "Реальная любовь",
+      "nameEn": null,
+      "nameOriginal": "Love Actually",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Франция"
+        },
+        {
+          "country": "Великобритания"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "мелодрама"
+        },
+        {
+          "genre": "комедия"
+        }
+      ],
+      "ratingKinopoisk": 7.9,
+      "ratingImdb": 7.6,
+      "year": 2003,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/6144.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/6144.jpg"
+    },
+    {
+      "kinopoiskId": 420,
+      "imdbId": "tt0079522",
+      "nameRu": "Манхэттен",
+      "nameEn": null,
+      "nameOriginal": "Manhattan",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "мелодрама"
+        },
+        {
+          "genre": "комедия"
+        }
+      ],
+      "ratingKinopoisk": 7.8,
+      "ratingImdb": 7.8,
+      "year": 1979,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/420.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/420.jpg"
+    },
+    {
+      "kinopoiskId": 875,
+      "imdbId": "tt0281358",
+      "nameRu": "Спеши любить",
+      "nameEn": null,
+      "nameOriginal": "A Walk to Remember",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "мелодрама"
+        }
+      ],
+      "ratingKinopoisk": 7.9,
+      "ratingImdb": 7.3,
+      "year": 2002,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/875.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/875.jpg"
+    },
+    {
+      "kinopoiskId": 102152,
+      "imdbId": null,
+      "nameRu": "Джейн Остин",
+      "nameEn": null,
+      "nameOriginal": "Becoming Jane",
+      "countries": [
+        {
+          "country": "Великобритания"
+        },
+        {
+          "country": "Ирландия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "мелодрама"
+        },
+        {
+          "genre": "биография"
+        }
+      ],
+      "ratingKinopoisk": 7.8,
+      "ratingImdb": 7,
+      "year": 2006,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/102152.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/102152.jpg"
+    },
+    {
+      "kinopoiskId": 390,
+      "imdbId": "tt0075686",
+      "nameRu": "Энни Холл",
+      "nameEn": null,
+      "nameOriginal": "Annie Hall",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "мелодрама"
+        },
+        {
+          "genre": "комедия"
+        }
+      ],
+      "ratingKinopoisk": 7.8,
+      "ratingImdb": 8,
+      "year": 1977,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/390.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/390.jpg"
+    },
+    {
+      "kinopoiskId": 724703,
+      "imdbId": "tt2582846",
+      "nameRu": "Виноваты звезды",
+      "nameEn": null,
+      "nameOriginal": "The Fault in Our Stars",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "мелодрама"
+        }
+      ],
+      "ratingKinopoisk": 7.8,
+      "ratingImdb": 7.7,
+      "year": 2014,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/724703.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/724703.jpg"
+    },
+    {
+      "kinopoiskId": 662596,
+      "imdbId": "tt2194499",
+      "nameRu": "Бойфренд из будущего",
+      "nameEn": null,
+      "nameOriginal": "About Time",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Великобритания"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "мелодрама"
+        },
+        {
+          "genre": "фантастика"
+        },
+        {
+          "genre": "фэнтези"
+        },
+        {
+          "genre": "комедия"
+        }
+      ],
+      "ratingKinopoisk": 7.9,
+      "ratingImdb": 7.8,
+      "year": 2013,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/662596.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/662596.jpg"
+    },
+    {
+      "kinopoiskId": 102130,
+      "imdbId": "tt0410297",
+      "nameRu": "Дом у озера",
+      "nameEn": null,
+      "nameOriginal": "The Lake House",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "мелодрама"
+        },
+        {
+          "genre": "фэнтези"
+        }
+      ],
+      "ratingKinopoisk": 7.8,
+      "ratingImdb": 6.8,
+      "year": 2006,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/102130.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/102130.jpg"
+    },
+    {
+      "kinopoiskId": 11130,
+      "imdbId": "tt0147800",
+      "nameRu": "10 причин моей ненависти",
+      "nameEn": null,
+      "nameOriginal": "10 Things I Hate About You",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "мелодрама"
+        },
+        {
+          "genre": "комедия"
+        }
+      ],
+      "ratingKinopoisk": 7.8,
+      "ratingImdb": 7.3,
+      "year": 1999,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/11130.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/11130.jpg"
+    },
+    {
+      "kinopoiskId": 11662,
+      "imdbId": "tt0045810",
+      "nameRu": "Джентльмены предпочитают блондинок",
+      "nameEn": null,
+      "nameOriginal": "Gentlemen Prefer Blondes",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "мелодрама"
+        },
+        {
+          "genre": "комедия"
+        },
+        {
+          "genre": "мюзикл"
+        }
+      ],
+      "ratingKinopoisk": 7.7,
+      "ratingImdb": 7.1,
+      "year": 1953,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/11662.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/11662.jpg"
+    },
+    {
+      "kinopoiskId": 463,
+      "imdbId": "tt0287467",
+      "nameRu": "Поговори с ней",
+      "nameEn": null,
+      "nameOriginal": "Hable con ella",
+      "countries": [
+        {
+          "country": "Испания"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "мелодрама"
+        }
+      ],
+      "ratingKinopoisk": 7.8,
+      "ratingImdb": 7.9,
+      "year": 2002,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/463.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/463.jpg"
+    },
+    {
+      "kinopoiskId": 3795,
+      "imdbId": "tt0230838",
+      "nameRu": "Сладкий ноябрь",
+      "nameEn": null,
+      "nameOriginal": "Sweet November",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "мелодрама"
+        }
+      ],
+      "ratingKinopoisk": 7.7,
+      "ratingImdb": 6.7,
+      "year": 2001,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/3795.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/3795.jpg"
+    },
+    {
+      "kinopoiskId": 495518,
+      "imdbId": "tt1563738",
+      "nameRu": "Один день",
+      "nameEn": null,
+      "nameOriginal": "One Day",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Великобритания"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "мелодрама"
+        }
+      ],
+      "ratingKinopoisk": 7.8,
+      "ratingImdb": 7,
+      "year": 2011,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/495518.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/495518.jpg"
+    },
+    {
+      "kinopoiskId": 821,
+      "imdbId": "tt0240890",
+      "nameRu": "Интуиция",
+      "nameEn": null,
+      "nameOriginal": "Serendipity",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "мелодрама"
+        },
+        {
+          "genre": "комедия"
+        }
+      ],
+      "ratingKinopoisk": 7.7,
+      "ratingImdb": 6.8,
+      "year": 2001,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/821.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/821.jpg"
+    },
+    {
+      "kinopoiskId": 1589,
+      "imdbId": "tt0098635",
+      "nameRu": "Когда Гарри встретил Салли",
+      "nameEn": null,
+      "nameOriginal": "When Harry Met Sally...",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "мелодрама"
+        },
+        {
+          "genre": "комедия"
+        }
+      ],
+      "ratingKinopoisk": 7.7,
+      "ratingImdb": 7.7,
+      "year": 1989,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1589.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1589.jpg"
+    },
+    {
+      "kinopoiskId": 63920,
+      "imdbId": "tt0364517",
+      "nameRu": "Влюбись в меня, если осмелишься",
+      "nameEn": null,
+      "nameOriginal": "Jeux d'enfants",
+      "countries": [
+        {
+          "country": "Франция"
+        },
+        {
+          "country": "Бельгия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "мелодрама"
+        }
+      ],
+      "ratingKinopoisk": 7.7,
+      "ratingImdb": 7.5,
+      "year": 2003,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/63920.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/63920.jpg"
+    },
+    {
+      "kinopoiskId": 198028,
+      "imdbId": "tt0431308",
+      "nameRu": "P.S. Я люблю тебя",
+      "nameEn": null,
+      "nameOriginal": "P.S. I Love You",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "мелодрама"
+        },
+        {
+          "genre": "комедия"
+        }
+      ],
+      "ratingKinopoisk": 7.7,
+      "ratingImdb": 7,
+      "year": 2007,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/198028.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/198028.jpg"
+    },
+    {
+      "kinopoiskId": 880,
+      "imdbId": "tt0207201",
+      "nameRu": "Чего хотят женщины",
+      "nameEn": null,
+      "nameOriginal": "What Women Want",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "мелодрама"
+        },
+        {
+          "genre": "фэнтези"
+        },
+        {
+          "genre": "комедия"
+        }
+      ],
+      "ratingKinopoisk": 7.7,
+      "ratingImdb": 6.4,
+      "year": 2000,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/880.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/880.jpg"
+    },
+    {
+      "kinopoiskId": 390738,
+      "imdbId": "tt1074213",
+      "nameRu": "Прости за любовь",
+      "nameEn": null,
+      "nameOriginal": "Scusa ma ti chiamo amore",
+      "countries": [
+        {
+          "country": "Италия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "мелодрама"
+        }
+      ],
+      "ratingKinopoisk": 7.6,
+      "ratingImdb": 6.1,
+      "year": 2008,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/390738.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/390738.jpg"
+    },
+    {
+      "kinopoiskId": 102128,
+      "imdbId": null,
+      "nameRu": "Жена путешественника во времени",
+      "nameEn": null,
+      "nameOriginal": "The Time Traveler's Wife",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "мелодрама"
+        },
+        {
+          "genre": "фантастика"
+        },
+        {
+          "genre": "фэнтези"
+        },
+        {
+          "genre": "комедия"
+        }
+      ],
+      "ratingKinopoisk": 7.7,
+      "ratingImdb": 7.1,
+      "year": 2008,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/102128.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/102128.jpg"
+    },
+    {
+      "kinopoiskId": 196855,
+      "imdbId": "tt0435679",
+      "nameRu": "Кит",
+      "nameEn": null,
+      "nameOriginal": "Keith",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "мелодрама"
+        }
+      ],
+      "ratingKinopoisk": 7.6,
+      "ratingImdb": 7.4,
+      "year": 2008,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/196855.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/196855.jpg"
+    },
+    {
+      "kinopoiskId": 409372,
+      "imdbId": "tt1022603",
+      "nameRu": "500 дней лета",
+      "nameEn": null,
+      "nameOriginal": "(500) Days of Summer",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "мелодрама"
+        },
+        {
+          "genre": "комедия"
+        }
+      ],
+      "ratingKinopoisk": 7.6,
+      "ratingImdb": 7.7,
+      "year": 2009,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/409372.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/409372.jpg"
+    },
+    {
+      "kinopoiskId": 104927,
+      "imdbId": "tt0457939",
+      "nameRu": "Отпуск по обмену",
+      "nameEn": null,
+      "nameOriginal": "The Holiday",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "мелодрама"
+        },
+        {
+          "genre": "комедия"
+        }
+      ],
+      "ratingKinopoisk": 7.9,
+      "ratingImdb": 6.9,
+      "year": 2006,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/104927.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/104927.jpg"
+    },
+    {
+      "kinopoiskId": 85182,
+      "imdbId": "tt0425123",
+      "nameRu": "Между небом и землёй",
+      "nameEn": null,
+      "nameOriginal": "Just Like Heaven",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "мелодрама"
+        },
+        {
+          "genre": "фэнтези"
+        },
+        {
+          "genre": "комедия"
+        }
+      ],
+      "ratingKinopoisk": 7.6,
+      "ratingImdb": 6.7,
+      "year": 2005,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/85182.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/85182.jpg"
+    },
+    {
+      "kinopoiskId": 461782,
+      "imdbId": "tt1403981",
+      "nameRu": "Помни меня",
+      "nameEn": null,
+      "nameOriginal": "Remember Me",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "мелодрама"
+        }
+      ],
+      "ratingKinopoisk": 7.6,
+      "ratingImdb": 7.1,
+      "year": 2010,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/461782.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/461782.jpg"
+    },
+    {
+      "kinopoiskId": 724,
+      "imdbId": "tt0035423",
+      "nameRu": "Кейт и Лео",
+      "nameEn": null,
+      "nameOriginal": "Kate & Leopold",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "мелодрама"
+        },
+        {
+          "genre": "фэнтези"
+        },
+        {
+          "genre": "комедия"
+        }
+      ],
+      "ratingKinopoisk": 7.6,
+      "ratingImdb": 6.4,
+      "year": 2001,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/724.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/724.jpg"
+    },
+    {
+      "kinopoiskId": 321842,
+      "imdbId": "tt1041829",
+      "nameRu": "Предложение",
+      "nameEn": null,
+      "nameOriginal": "The Proposal",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "мелодрама"
+        },
+        {
+          "genre": "комедия"
+        }
+      ],
+      "ratingKinopoisk": 7.7,
+      "ratingImdb": 6.7,
+      "year": 2009,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/321842.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/321842.jpg"
+    },
+    {
+      "kinopoiskId": 522876,
+      "imdbId": "tt1655441",
+      "nameRu": "Век Адалин",
+      "nameEn": null,
+      "nameOriginal": "The Age of Adaline",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Канада"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "мелодрама"
+        },
+        {
+          "genre": "фэнтези"
+        }
+      ],
+      "ratingKinopoisk": 7.8,
+      "ratingImdb": 7.2,
+      "year": 2015,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/522876.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/522876.jpg"
+    },
+    {
+      "kinopoiskId": 398239,
+      "imdbId": "tt1142988",
+      "nameRu": "Голая правда",
+      "nameEn": null,
+      "nameOriginal": "The Ugly Truth",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "мелодрама"
+        },
+        {
+          "genre": "комедия"
+        }
+      ],
+      "ratingKinopoisk": 7.6,
+      "ratingImdb": 6.4,
+      "year": 2009,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/398239.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/398239.jpg"
+    },
+    {
+      "kinopoiskId": 77437,
+      "imdbId": "tt0401711",
+      "nameRu": "Париж, я люблю тебя",
+      "nameEn": null,
+      "nameOriginal": "Paris, je t'aime",
+      "countries": [
+        {
+          "country": "Швейцария"
+        },
+        {
+          "country": "Франция"
+        },
+        {
+          "country": "Германия"
+        },
+        {
+          "country": "Лихтенштейн"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "мелодрама"
+        },
+        {
+          "genre": "комедия"
+        }
+      ],
+      "ratingKinopoisk": 7.5,
+      "ratingImdb": 7.2,
+      "year": 2006,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/77437.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/77437.jpg"
+    },
+    {
+      "kinopoiskId": 462342,
+      "imdbId": "tt1067583",
+      "nameRu": "Воды слонам!",
+      "nameEn": null,
+      "nameOriginal": "Water for Elephants",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "мелодрама"
+        }
+      ],
+      "ratingKinopoisk": 7.6,
+      "ratingImdb": 6.9,
+      "year": 2011,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/462342.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/462342.jpg"
+    },
+    {
+      "kinopoiskId": 493992,
+      "imdbId": "tt1570728",
+      "nameRu": "Эта дурацкая любовь",
+      "nameEn": null,
+      "nameOriginal": "Crazy, Stupid, Love.",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "мелодрама"
+        },
+        {
+          "genre": "комедия"
+        }
+      ],
+      "ratingKinopoisk": 7.6,
+      "ratingImdb": 7.4,
+      "year": 2011,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/493992.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/493992.jpg"
+    },
+    {
+      "kinopoiskId": 77466,
+      "imdbId": "tt0391304",
+      "nameRu": "Больше чем любовь",
+      "nameEn": null,
+      "nameOriginal": "A Lot Like Love",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "мелодрама"
+        },
+        {
+          "genre": "комедия"
+        }
+      ],
+      "ratingKinopoisk": 7.5,
+      "ratingImdb": 6.6,
+      "year": 2005,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/77466.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/77466.jpg"
+    },
+    {
+      "kinopoiskId": 258689,
+      "imdbId": "tt0792965",
+      "nameRu": "Просто вместе",
+      "nameEn": null,
+      "nameOriginal": "Ensemble, c'est tout",
+      "countries": [
+        {
+          "country": "Франция"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "мелодрама"
+        }
+      ],
+      "ratingKinopoisk": 7.5,
+      "ratingImdb": 6.7,
+      "year": 2007,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/258689.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/258689.jpg"
+    },
+    {
+      "kinopoiskId": 621,
+      "imdbId": "tt0243155",
+      "nameRu": "Дневник Бриджит Джонс",
+      "nameEn": null,
+      "nameOriginal": "Bridget Jones's Diary",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Франция"
+        },
+        {
+          "country": "Великобритания"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "мелодрама"
+        },
+        {
+          "genre": "комедия"
+        }
+      ],
+      "ratingKinopoisk": 7.5,
+      "ratingImdb": 6.8,
+      "year": 2001,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/621.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/621.jpg"
+    },
+    {
+      "kinopoiskId": 7662,
+      "imdbId": "tt0138097",
+      "nameRu": "Влюблённый Шекспир",
+      "nameEn": null,
+      "nameOriginal": "Shakespeare in Love",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Великобритания"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "мелодрама"
+        },
+        {
+          "genre": "комедия"
+        },
+        {
+          "genre": "история"
+        }
+      ],
+      "ratingKinopoisk": 7.4,
+      "ratingImdb": 7.1,
+      "year": 1998,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/7662.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/7662.jpg"
+    },
+    {
+      "kinopoiskId": 1794,
+      "imdbId": "tt0343660",
+      "nameRu": "50 первых поцелуев",
+      "nameEn": null,
+      "nameOriginal": "50 First Dates",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "мелодрама"
+        },
+        {
+          "genre": "комедия"
+        }
+      ],
+      "ratingKinopoisk": 7.3,
+      "ratingImdb": 6.8,
+      "year": 2004,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/1794.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/1794.jpg"
+    },
+    {
+      "kinopoiskId": 704,
+      "imdbId": "tt0251127",
+      "nameRu": "Как отделаться от парня за 10 дней",
+      "nameEn": null,
+      "nameOriginal": "How to Lose a Guy in 10 Days",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Германия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "мелодрама"
+        },
+        {
+          "genre": "комедия"
+        }
+      ],
+      "ratingKinopoisk": 7.3,
+      "ratingImdb": 6.5,
+      "year": 2003,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/704.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/704.jpg"
+    },
+    {
+      "kinopoiskId": 317889,
+      "imdbId": "tt1033643",
+      "nameRu": "Однажды в Вегасе",
+      "nameEn": null,
+      "nameOriginal": "What Happens in Vegas",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "мелодрама"
+        },
+        {
+          "genre": "комедия"
+        }
+      ],
+      "ratingKinopoisk": 7.2,
+      "ratingImdb": 6.1,
+      "year": 2008,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/317889.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/317889.jpg"
+    },
+    {
+      "kinopoiskId": 462938,
+      "imdbId": "tt1045658",
+      "nameRu": "Мой парень — псих",
+      "nameEn": null,
+      "nameOriginal": "Silver Linings Playbook",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "мелодрама"
+        },
+        {
+          "genre": "комедия"
+        }
+      ],
+      "ratingKinopoisk": 7.2,
+      "ratingImdb": 7.7,
+      "year": 2012,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/462938.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/462938.jpg"
+    },
+    {
+      "kinopoiskId": 105948,
+      "imdbId": "tt0446029",
+      "nameRu": "Скотт Пилигрим против всех",
+      "nameEn": null,
+      "nameOriginal": "Scott Pilgrim vs. the World",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Великобритания"
+        },
+        {
+          "country": "Канада"
+        },
+        {
+          "country": "Япония"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "мелодрама"
+        },
+        {
+          "genre": "боевик"
+        },
+        {
+          "genre": "фэнтези"
+        },
+        {
+          "genre": "комедия"
+        }
+      ],
+      "ratingKinopoisk": 7.3,
+      "ratingImdb": 7.6,
+      "year": 2010,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/105948.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/105948.jpg"
+    },
+    {
+      "kinopoiskId": 278171,
+      "imdbId": "tt0497465",
+      "nameRu": "Вики Кристина Барселона",
+      "nameEn": null,
+      "nameOriginal": "Vicky Cristina Barcelona",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Испания"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "мелодрама"
+        },
+        {
+          "genre": "комедия"
+        }
+      ],
+      "ratingKinopoisk": 7.2,
+      "ratingImdb": 7.1,
+      "year": 2008,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/278171.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/278171.jpg"
+    },
+    {
+      "kinopoiskId": 505811,
+      "imdbId": "tt1632708",
+      "nameRu": "Секс по дружбе",
+      "nameEn": null,
+      "nameOriginal": "Friends with Benefits",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "мелодрама"
+        },
+        {
+          "genre": "комедия"
+        }
+      ],
+      "ratingKinopoisk": 7.1,
+      "ratingImdb": 6.5,
+      "year": 2011,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/505811.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/505811.jpg"
+    },
+    {
+      "kinopoiskId": 523362,
+      "imdbId": "tt1648216",
+      "nameRu": "Три метра над уровнем неба",
+      "nameEn": null,
+      "nameOriginal": "Tres metros sobre el cielo",
+      "countries": [
+        {
+          "country": "Испания"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "мелодрама"
+        }
+      ],
+      "ratingKinopoisk": 7.1,
+      "ratingImdb": 6.8,
+      "year": 2010,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/523362.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/523362.jpg"
+    },
+    {
+      "kinopoiskId": 582764,
+      "imdbId": "tt1828995",
+      "nameRu": "Нежность",
+      "nameEn": null,
+      "nameOriginal": "La délicatesse",
+      "countries": [
+        {
+          "country": "Франция"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "мелодрама"
+        },
+        {
+          "genre": "комедия"
+        }
+      ],
+      "ratingKinopoisk": 7.1,
+      "ratingImdb": 6.6,
+      "year": 2011,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/582764.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/582764.jpg"
+    },
+    {
+      "kinopoiskId": 463695,
+      "imdbId": "tt0758752",
+      "nameRu": "Любовь и другие лекарства",
+      "nameEn": null,
+      "nameOriginal": "Love & Other Drugs",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "мелодрама"
+        },
+        {
+          "genre": "комедия"
+        }
+      ],
+      "ratingKinopoisk": 6.9,
+      "ratingImdb": 6.7,
+      "year": 2010,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/463695.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/463695.jpg"
+    },
+    {
+      "kinopoiskId": 502937,
+      "imdbId": null,
+      "nameRu": "Больше чем секс",
+      "nameEn": null,
+      "nameOriginal": "No Strings Attached",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Великобритания"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "мелодрама"
+        },
+        {
+          "genre": "комедия"
+        }
+      ],
+      "ratingKinopoisk": 6.8,
+      "ratingImdb": 6.2,
+      "year": 2010,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/502937.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/502937.jpg"
+    }
+  ]
+}

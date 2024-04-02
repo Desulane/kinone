@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+    display: flex;
+    flex-direction: column;
+
+    justify-content: center;
+    align-items: center;
+
+    color: #E5E5E5;
+
+    font-family: 'Inter', sans-serif;
+
+    background-color: rgba(0,0,0,0.7);
+}
+
+.mobile {
+    width: 300px;
+    height: 600px;
+
+    border-radius: 20px;
+    border: 8px solid #222;
+
+    box-shadow: 0 0 20px rgba(0,0,0,0.3);
+
+    background-size: cover;
+    background-color: rgba(0,0,0,0.3);
+    background-blend-mode: multiply;
+
+    overflow: hidden;
+}
+
+@media only screen and (max-device-width: 540px) {
+    .mobile {
+        height: 100vh;
+        width: 100%;
+        border: none;
+        border-radius: 0;
+    }
+
+    .content {
+        padding: 20px;
+        height: 100%;
+    }
+}
+

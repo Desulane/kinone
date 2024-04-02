@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+    display: flex;
+    flex-direction: column;
+
+    height: 100vh;
+
+    justify-content: center;
+    align-items: center;
+
+    color: #E5E5E5;
+
+    font-family: 'Inter', sans-serif;
+
+    background-color: rgba(0,0,0,0.7);
+}
+
+.mobile {
+    width: 300px;
+    height: 600px;
+
+    padding: 20px;
+
+    border-radius: 20px;
+    border: 8px solid #222;
+
+    box-shadow: 0 0 20px rgba(0,0,0,0.3);
+
+    background-color: #111;
+    background-color: rgba(0,0,0,0.7);
+    overflow: hidden;
+}

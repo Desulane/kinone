@@ -1,0 +1,1101 @@
+{
+  "total": 30,
+  "totalPages": 2,
+  "movies": [
+    {
+      "kinopoiskId": 2360,
+      "imdbId": "tt0110357",
+      "nameRu": "Король Лев",
+      "nameEn": null,
+      "nameOriginal": "The Lion King",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "приключения"
+        },
+        {
+          "genre": "мультфильм"
+        },
+        {
+          "genre": "семейный"
+        },
+        {
+          "genre": "мюзикл"
+        }
+      ],
+      "ratingKinopoisk": 8.8,
+      "ratingImdb": 8.5,
+      "year": 1994,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/2360.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/2360.jpg"
+    },
+    {
+      "kinopoiskId": 279102,
+      "imdbId": "tt0910970",
+      "nameRu": "ВАЛЛ·И",
+      "nameEn": null,
+      "nameOriginal": "WALL·E",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "фантастика"
+        },
+        {
+          "genre": "приключения"
+        },
+        {
+          "genre": "мультфильм"
+        },
+        {
+          "genre": "семейный"
+        }
+      ],
+      "ratingKinopoisk": 8.4,
+      "ratingImdb": 8.4,
+      "year": 2008,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/279102.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/279102.jpg"
+    },
+    {
+      "kinopoiskId": 8221,
+      "imdbId": "tt0096283",
+      "nameRu": "Мой сосед Тоторо",
+      "nameEn": null,
+      "nameOriginal": "Tonari no Totoro",
+      "countries": [
+        {
+          "country": "Япония"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "приключения"
+        },
+        {
+          "genre": "фэнтези"
+        },
+        {
+          "genre": "мультфильм"
+        },
+        {
+          "genre": "семейный"
+        },
+        {
+          "genre": "аниме"
+        }
+      ],
+      "ratingKinopoisk": 8.2,
+      "ratingImdb": 8.1,
+      "year": 1988,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/8221.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/8221.jpg"
+    },
+    {
+      "kinopoiskId": 8227,
+      "imdbId": "tt0048280",
+      "nameRu": "Леди и бродяга",
+      "nameEn": null,
+      "nameOriginal": "Lady and the Tramp",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "мелодрама"
+        },
+        {
+          "genre": "приключения"
+        },
+        {
+          "genre": "комедия"
+        },
+        {
+          "genre": "мультфильм"
+        },
+        {
+          "genre": "семейный"
+        },
+        {
+          "genre": "мюзикл"
+        }
+      ],
+      "ratingKinopoisk": 8.2,
+      "ratingImdb": 7.3,
+      "year": 1955,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/8227.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/8227.jpg"
+    },
+    {
+      "kinopoiskId": 16117,
+      "imdbId": "tt0082406",
+      "nameRu": "Лис и пёс",
+      "nameEn": null,
+      "nameOriginal": "The Fox and the Hound",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "приключения"
+        },
+        {
+          "genre": "мультфильм"
+        },
+        {
+          "genre": "семейный"
+        }
+      ],
+      "ratingKinopoisk": 8.2,
+      "ratingImdb": 7.2,
+      "year": 1981,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/16117.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/16117.jpg"
+    },
+    {
+      "kinopoiskId": 2361,
+      "imdbId": "tt0103639",
+      "nameRu": "Аладдин",
+      "nameEn": null,
+      "nameOriginal": "Aladdin",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "мелодрама"
+        },
+        {
+          "genre": "приключения"
+        },
+        {
+          "genre": "фэнтези"
+        },
+        {
+          "genre": "комедия"
+        },
+        {
+          "genre": "мультфильм"
+        },
+        {
+          "genre": "семейный"
+        },
+        {
+          "genre": "мюзикл"
+        }
+      ],
+      "ratingKinopoisk": 8.2,
+      "ratingImdb": 8,
+      "year": 1992,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/2361.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/2361.jpg"
+    },
+    {
+      "kinopoiskId": 8154,
+      "imdbId": "tt0034492",
+      "nameRu": "Бемби",
+      "nameEn": null,
+      "nameOriginal": "Bambi",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "приключения"
+        },
+        {
+          "genre": "мультфильм"
+        },
+        {
+          "genre": "семейный"
+        },
+        {
+          "genre": "детский"
+        }
+      ],
+      "ratingKinopoisk": 8.1,
+      "ratingImdb": 7.3,
+      "year": 1942,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/8154.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/8154.jpg"
+    },
+    {
+      "kinopoiskId": 839,
+      "imdbId": "tt0166813",
+      "nameRu": "Спирит: Душа прерий",
+      "nameEn": null,
+      "nameOriginal": "Spirit: Stallion of the Cimarron",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Канада"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "приключения"
+        },
+        {
+          "genre": "вестерн"
+        },
+        {
+          "genre": "мультфильм"
+        },
+        {
+          "genre": "семейный"
+        }
+      ],
+      "ratingKinopoisk": 8.1,
+      "ratingImdb": 7.2,
+      "year": 2002,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/839.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/839.jpg"
+    },
+    {
+      "kinopoiskId": 8231,
+      "imdbId": null,
+      "nameRu": "Золушка",
+      "nameEn": null,
+      "nameOriginal": "Cinderella",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "мелодрама"
+        },
+        {
+          "genre": "фэнтези"
+        },
+        {
+          "genre": "мультфильм"
+        },
+        {
+          "genre": "семейный"
+        },
+        {
+          "genre": "мюзикл"
+        }
+      ],
+      "ratingKinopoisk": 8,
+      "ratingImdb": 7.3,
+      "year": 1949,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/8231.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/8231.jpg"
+    },
+    {
+      "kinopoiskId": 8147,
+      "imdbId": "tt0097757",
+      "nameRu": "Русалочка",
+      "nameEn": null,
+      "nameOriginal": "The Little Mermaid",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Япония"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "мелодрама"
+        },
+        {
+          "genre": "приключения"
+        },
+        {
+          "genre": "фэнтези"
+        },
+        {
+          "genre": "мультфильм"
+        },
+        {
+          "genre": "семейный"
+        },
+        {
+          "genre": "мюзикл"
+        }
+      ],
+      "ratingKinopoisk": 8.2,
+      "ratingImdb": 7.6,
+      "year": 1989,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/8147.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/8147.jpg"
+    },
+    {
+      "kinopoiskId": 5277,
+      "imdbId": "tt0120762",
+      "nameRu": "Мулан",
+      "nameEn": null,
+      "nameOriginal": "Mulan",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Япония"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "приключения"
+        },
+        {
+          "genre": "фэнтези"
+        },
+        {
+          "genre": "комедия"
+        },
+        {
+          "genre": "военный"
+        },
+        {
+          "genre": "мультфильм"
+        },
+        {
+          "genre": "семейный"
+        },
+        {
+          "genre": "мюзикл"
+        }
+      ],
+      "ratingKinopoisk": 8.1,
+      "ratingImdb": 7.7,
+      "year": 1998,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/5277.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/5277.jpg"
+    },
+    {
+      "kinopoiskId": 7107,
+      "imdbId": "tt0095489",
+      "nameRu": "Земля до начала времен",
+      "nameEn": null,
+      "nameOriginal": "The Land Before Time",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Ирландия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "приключения"
+        },
+        {
+          "genre": "мультфильм"
+        },
+        {
+          "genre": "семейный"
+        }
+      ],
+      "ratingKinopoisk": 8,
+      "ratingImdb": 7.4,
+      "year": 1988,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/7107.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/7107.jpg"
+    },
+    {
+      "kinopoiskId": 8129,
+      "imdbId": "tt0055254",
+      "nameRu": "101 далматинец",
+      "nameEn": null,
+      "nameOriginal": "One Hundred and One Dalmatians",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "приключения"
+        },
+        {
+          "genre": "мультфильм"
+        },
+        {
+          "genre": "семейный"
+        }
+      ],
+      "ratingKinopoisk": 8,
+      "ratingImdb": 7.3,
+      "year": 1961,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/8129.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/8129.jpg"
+    },
+    {
+      "kinopoiskId": 551,
+      "imdbId": "tt0029583",
+      "nameRu": "Белоснежка и семь гномов",
+      "nameEn": null,
+      "nameOriginal": "Snow White and the Seven Dwarfs",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "мелодрама"
+        },
+        {
+          "genre": "приключения"
+        },
+        {
+          "genre": "фэнтези"
+        },
+        {
+          "genre": "мультфильм"
+        },
+        {
+          "genre": "семейный"
+        },
+        {
+          "genre": "мюзикл"
+        }
+      ],
+      "ratingKinopoisk": 7.9,
+      "ratingImdb": 7.6,
+      "year": 1937,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/551.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/551.jpg"
+    },
+    {
+      "kinopoiskId": 95267,
+      "imdbId": "tt0074705",
+      "nameRu": "Джек в стране чудес",
+      "nameEn": null,
+      "nameOriginal": "Jack and the Beanstalk",
+      "countries": [
+        {
+          "country": "Япония"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "приключения"
+        },
+        {
+          "genre": "фэнтези"
+        },
+        {
+          "genre": "мультфильм"
+        },
+        {
+          "genre": "аниме"
+        }
+      ],
+      "ratingKinopoisk": 7.6,
+      "ratingImdb": 7.2,
+      "year": 1974,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/95267.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/95267.jpg"
+    },
+    {
+      "kinopoiskId": 89514,
+      "imdbId": "tt0382932",
+      "nameRu": "Рататуй",
+      "nameEn": null,
+      "nameOriginal": "Ratatouille",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "приключения"
+        },
+        {
+          "genre": "фэнтези"
+        },
+        {
+          "genre": "комедия"
+        },
+        {
+          "genre": "мультфильм"
+        },
+        {
+          "genre": "семейный"
+        }
+      ],
+      "ratingKinopoisk": 8,
+      "ratingImdb": 8.1,
+      "year": 2007,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/89514.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/89514.jpg"
+    },
+    {
+      "kinopoiskId": 8057,
+      "imdbId": "tt0328880",
+      "nameRu": "Братец медвежонок",
+      "nameEn": null,
+      "nameOriginal": "Brother Bear",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Япония"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "приключения"
+        },
+        {
+          "genre": "фэнтези"
+        },
+        {
+          "genre": "комедия"
+        },
+        {
+          "genre": "мультфильм"
+        },
+        {
+          "genre": "семейный"
+        },
+        {
+          "genre": "мюзикл"
+        }
+      ],
+      "ratingKinopoisk": 7.9,
+      "ratingImdb": 6.9,
+      "year": 2003,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/8057.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/8057.jpg"
+    },
+    {
+      "kinopoiskId": 19504,
+      "imdbId": "tt0043274",
+      "nameRu": "Алиса в стране чудес",
+      "nameEn": null,
+      "nameOriginal": "Alice in Wonderland",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "приключения"
+        },
+        {
+          "genre": "фэнтези"
+        },
+        {
+          "genre": "комедия"
+        },
+        {
+          "genre": "мультфильм"
+        },
+        {
+          "genre": "семейный"
+        },
+        {
+          "genre": "мюзикл"
+        }
+      ],
+      "ratingKinopoisk": 7.8,
+      "ratingImdb": 7.3,
+      "year": 1951,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/19504.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/19504.jpg"
+    },
+    {
+      "kinopoiskId": 6667,
+      "imdbId": "tt0111333",
+      "nameRu": "Принцесса Лебедь",
+      "nameEn": null,
+      "nameOriginal": "The Swan Princess",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "мелодрама"
+        },
+        {
+          "genre": "приключения"
+        },
+        {
+          "genre": "фэнтези"
+        },
+        {
+          "genre": "комедия"
+        },
+        {
+          "genre": "мультфильм"
+        },
+        {
+          "genre": "семейный"
+        },
+        {
+          "genre": "мюзикл"
+        }
+      ],
+      "ratingKinopoisk": 7.9,
+      "ratingImdb": 6.4,
+      "year": 1994,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/6667.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/6667.jpg"
+    },
+    {
+      "kinopoiskId": 492366,
+      "imdbId": "tt1568921",
+      "nameRu": "Ариэтти из страны лилипутов",
+      "nameEn": null,
+      "nameOriginal": "Karigurashi no Arietti",
+      "countries": [
+        {
+          "country": "Япония"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "фэнтези"
+        },
+        {
+          "genre": "мультфильм"
+        },
+        {
+          "genre": "аниме"
+        }
+      ],
+      "ratingKinopoisk": 7.9,
+      "ratingImdb": 7.6,
+      "year": 2010,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/492366.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/492366.jpg"
+    },
+    {
+      "kinopoiskId": 658,
+      "imdbId": "tt0120917",
+      "nameRu": "Похождения императора",
+      "nameEn": null,
+      "nameOriginal": "The Emperor's New Groove",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Япония"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "приключения"
+        },
+        {
+          "genre": "фэнтези"
+        },
+        {
+          "genre": "комедия"
+        },
+        {
+          "genre": "мультфильм"
+        },
+        {
+          "genre": "семейный"
+        }
+      ],
+      "ratingKinopoisk": 7.9,
+      "ratingImdb": 7.4,
+      "year": 2000,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/658.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/658.jpg"
+    },
+    {
+      "kinopoiskId": 7908,
+      "imdbId": "tt0266543",
+      "nameRu": "В поисках Немо",
+      "nameEn": null,
+      "nameOriginal": "Finding Nemo",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "приключения"
+        },
+        {
+          "genre": "комедия"
+        },
+        {
+          "genre": "мультфильм"
+        },
+        {
+          "genre": "семейный"
+        }
+      ],
+      "ratingKinopoisk": 7.9,
+      "ratingImdb": 8.2,
+      "year": 2003,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/7908.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/7908.jpg"
+    },
+    {
+      "kinopoiskId": 77038,
+      "imdbId": "tt0120131",
+      "nameRu": "Король Лев 2: Гордость Симбы",
+      "nameEn": null,
+      "nameOriginal": "The Lion King II: Simba's Pride",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Австралия"
+        },
+        {
+          "country": "Канада"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "мелодрама"
+        },
+        {
+          "genre": "приключения"
+        },
+        {
+          "genre": "мультфильм"
+        },
+        {
+          "genre": "семейный"
+        },
+        {
+          "genre": "мюзикл"
+        }
+      ],
+      "ratingKinopoisk": 7.8,
+      "ratingImdb": 6.4,
+      "year": 1998,
+      "type": "VIDEO",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/77038.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/77038.jpg"
+    },
+    {
+      "kinopoiskId": 8225,
+      "imdbId": "tt0033563",
+      "nameRu": "Дамбо",
+      "nameEn": null,
+      "nameOriginal": "Dumbo",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "приключения"
+        },
+        {
+          "genre": "фэнтези"
+        },
+        {
+          "genre": "мультфильм"
+        },
+        {
+          "genre": "семейный"
+        },
+        {
+          "genre": "мюзикл"
+        }
+      ],
+      "ratingKinopoisk": 7.8,
+      "ratingImdb": 7.2,
+      "year": 1941,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/8225.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/8225.jpg"
+    },
+    {
+      "kinopoiskId": 8238,
+      "imdbId": null,
+      "nameRu": "Питер Пэн",
+      "nameEn": null,
+      "nameOriginal": "Peter Pan",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "приключения"
+        },
+        {
+          "genre": "фэнтези"
+        },
+        {
+          "genre": "мультфильм"
+        },
+        {
+          "genre": "семейный"
+        },
+        {
+          "genre": "мюзикл"
+        }
+      ],
+      "ratingKinopoisk": 7.7,
+      "ratingImdb": 7.3,
+      "year": 1952,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/8238.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/8238.jpg"
+    },
+    {
+      "kinopoiskId": 8133,
+      "imdbId": "tt0061852",
+      "nameRu": "Книга джунглей",
+      "nameEn": null,
+      "nameOriginal": "The Jungle Book",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "приключения"
+        },
+        {
+          "genre": "комедия"
+        },
+        {
+          "genre": "мультфильм"
+        },
+        {
+          "genre": "семейный"
+        },
+        {
+          "genre": "мюзикл"
+        }
+      ],
+      "ratingKinopoisk": 7.8,
+      "ratingImdb": 7.6,
+      "year": 1967,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/8133.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/8133.jpg"
+    },
+    {
+      "kinopoiskId": 5213,
+      "imdbId": "tt0114148",
+      "nameRu": "Покахонтас",
+      "nameEn": null,
+      "nameOriginal": "Pocahontas",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "мелодрама"
+        },
+        {
+          "genre": "приключения"
+        },
+        {
+          "genre": "мультфильм"
+        },
+        {
+          "genre": "семейный"
+        },
+        {
+          "genre": "мюзикл"
+        }
+      ],
+      "ratingKinopoisk": 7.8,
+      "ratingImdb": 6.7,
+      "year": 1995,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/5213.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/5213.jpg"
+    },
+    {
+      "kinopoiskId": 8223,
+      "imdbId": "tt0076363",
+      "nameRu": "Приключения Винни Пуха",
+      "nameEn": null,
+      "nameOriginal": "The Many Adventures of Winnie the Pooh",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "приключения"
+        },
+        {
+          "genre": "комедия"
+        },
+        {
+          "genre": "мультфильм"
+        },
+        {
+          "genre": "семейный"
+        },
+        {
+          "genre": "мюзикл"
+        }
+      ],
+      "ratingKinopoisk": 7.7,
+      "ratingImdb": 7.5,
+      "year": 1977,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/8223.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/8223.jpg"
+    },
+    {
+      "kinopoiskId": 2356,
+      "imdbId": "tt0120623",
+      "nameRu": "Приключения Флика",
+      "nameEn": null,
+      "nameOriginal": "A Bug's Life",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "приключения"
+        },
+        {
+          "genre": "фэнтези"
+        },
+        {
+          "genre": "комедия"
+        },
+        {
+          "genre": "мультфильм"
+        },
+        {
+          "genre": "семейный"
+        }
+      ],
+      "ratingKinopoisk": 7.6,
+      "ratingImdb": 7.2,
+      "year": 1998,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/2356.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/2356.jpg"
+    },
+    {
+      "kinopoiskId": 8220,
+      "imdbId": "tt0032910",
+      "nameRu": "Пиноккио",
+      "nameEn": null,
+      "nameOriginal": "Pinocchio",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "фэнтези"
+        },
+        {
+          "genre": "музыка"
+        },
+        {
+          "genre": "мультфильм"
+        },
+        {
+          "genre": "семейный"
+        }
+      ],
+      "ratingKinopoisk": 7.6,
+      "ratingImdb": 7.5,
+      "year": 1940,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/8220.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/8220.jpg"
+    }
+  ]
+}

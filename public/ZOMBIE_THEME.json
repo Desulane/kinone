@@ -1,0 +1,947 @@
+{
+  "total": 31,
+  "totalPages": 2,
+  "movies": [
+    {
+      "kinopoiskId": 195524,
+      "imdbId": "tt0480249",
+      "nameRu": "Я — легенда",
+      "nameEn": null,
+      "nameOriginal": "I Am Legend",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "триллер"
+        },
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "фантастика"
+        },
+        {
+          "genre": "боевик"
+        },
+        {
+          "genre": "ужасы"
+        }
+      ],
+      "ratingKinopoisk": 7.9,
+      "ratingImdb": 7.2,
+      "year": 2007,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/195524.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/195524.jpg"
+    },
+    {
+      "kinopoiskId": 801,
+      "imdbId": "tt0120804",
+      "nameRu": "Обитель зла",
+      "nameEn": null,
+      "nameOriginal": "Resident Evil",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Германия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "фантастика"
+        },
+        {
+          "genre": "боевик"
+        },
+        {
+          "genre": "ужасы"
+        }
+      ],
+      "ratingKinopoisk": 7.6,
+      "ratingImdb": 6.6,
+      "year": 2002,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/801.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/801.jpg"
+    },
+    {
+      "kinopoiskId": 577,
+      "imdbId": "tt0289043",
+      "nameRu": "28 дней спустя",
+      "nameEn": null,
+      "nameOriginal": "28 Days Later...",
+      "countries": [
+        {
+          "country": "Великобритания"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "триллер"
+        },
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "фантастика"
+        },
+        {
+          "genre": "ужасы"
+        }
+      ],
+      "ratingKinopoisk": 7.5,
+      "ratingImdb": 7.5,
+      "year": 2002,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/577.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/577.jpg"
+    },
+    {
+      "kinopoiskId": 427122,
+      "imdbId": "tt1156398",
+      "nameRu": "Добро пожаловать в Zомбилэнд",
+      "nameEn": null,
+      "nameOriginal": "Zombieland",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "боевик"
+        },
+        {
+          "genre": "комедия"
+        },
+        {
+          "genre": "ужасы"
+        }
+      ],
+      "ratingKinopoisk": 7.4,
+      "ratingImdb": 7.6,
+      "year": 2009,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/427122.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/427122.jpg"
+    },
+    {
+      "kinopoiskId": 64021,
+      "imdbId": "tt0365748",
+      "nameRu": "Зомби по имени Шон",
+      "nameEn": null,
+      "nameOriginal": "Shaun of the Dead",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Франция"
+        },
+        {
+          "country": "Великобритания"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "комедия"
+        },
+        {
+          "genre": "ужасы"
+        }
+      ],
+      "ratingKinopoisk": 7.3,
+      "ratingImdb": 7.9,
+      "year": 2004,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/64021.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/64021.jpg"
+    },
+    {
+      "kinopoiskId": 36544,
+      "imdbId": "tt0363547",
+      "nameRu": "Рассвет мертвецов",
+      "nameEn": null,
+      "nameOriginal": "Dawn of the Dead",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Франция"
+        },
+        {
+          "country": "Канада"
+        },
+        {
+          "country": "Япония"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "боевик"
+        },
+        {
+          "genre": "ужасы"
+        }
+      ],
+      "ratingKinopoisk": 7.3,
+      "ratingImdb": 7.3,
+      "year": 2004,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/36544.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/36544.jpg"
+    },
+    {
+      "kinopoiskId": 17159,
+      "imdbId": null,
+      "nameRu": "Возвращение живых мертвецов",
+      "nameEn": null,
+      "nameOriginal": "The Return of the Living Dead",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "фантастика"
+        },
+        {
+          "genre": "комедия"
+        },
+        {
+          "genre": "ужасы"
+        }
+      ],
+      "ratingKinopoisk": 7.2,
+      "ratingImdb": 7.3,
+      "year": 1984,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/17159.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/17159.jpg"
+    },
+    {
+      "kinopoiskId": 8370,
+      "imdbId": "tt0063350",
+      "nameRu": "Ночь живых мертвецов",
+      "nameEn": null,
+      "nameOriginal": "Night of the Living Dead",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "ужасы"
+        }
+      ],
+      "ratingKinopoisk": 7.2,
+      "ratingImdb": 7.8,
+      "year": 1968,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/8370.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/8370.jpg"
+    },
+    {
+      "kinopoiskId": 5916,
+      "imdbId": "tt0103873",
+      "nameRu": "Живая мертвечина",
+      "nameEn": null,
+      "nameOriginal": "Braindead",
+      "countries": [
+        {
+          "country": "Новая Зеландия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "триллер"
+        },
+        {
+          "genre": "фэнтези"
+        },
+        {
+          "genre": "комедия"
+        },
+        {
+          "genre": "ужасы"
+        }
+      ],
+      "ratingKinopoisk": 7.3,
+      "ratingImdb": 7.5,
+      "year": 1992,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/5916.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/5916.jpg"
+    },
+    {
+      "kinopoiskId": 2894,
+      "imdbId": "tt0083907",
+      "nameRu": "Зловещие мертвецы",
+      "nameEn": null,
+      "nameOriginal": "The Evil Dead",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "ужасы"
+        }
+      ],
+      "ratingKinopoisk": 7.2,
+      "ratingImdb": 7.4,
+      "year": 1981,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/2894.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/2894.jpg"
+    },
+    {
+      "kinopoiskId": 9923,
+      "imdbId": "tt0100258",
+      "nameRu": "Ночь живых мертвецов",
+      "nameEn": null,
+      "nameOriginal": "Night of the Living Dead",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "ужасы"
+        }
+      ],
+      "ratingKinopoisk": 7,
+      "ratingImdb": 6.8,
+      "year": 1990,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/9923.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/9923.jpg"
+    },
+    {
+      "kinopoiskId": 197615,
+      "imdbId": "tt0463854",
+      "nameRu": "28 недель спустя",
+      "nameEn": null,
+      "nameOriginal": "28 Weeks Later",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Великобритания"
+        },
+        {
+          "country": "Испания"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "драма"
+        },
+        {
+          "genre": "фантастика"
+        },
+        {
+          "genre": "ужасы"
+        }
+      ],
+      "ratingKinopoisk": 7,
+      "ratingImdb": 6.9,
+      "year": 2007,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/197615.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/197615.jpg"
+    },
+    {
+      "kinopoiskId": 325598,
+      "imdbId": "tt1038988",
+      "nameRu": "Репортаж",
+      "nameEn": null,
+      "nameOriginal": "[Rec]",
+      "countries": [
+        {
+          "country": "Испания"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "триллер"
+        },
+        {
+          "genre": "детектив"
+        },
+        {
+          "genre": "ужасы"
+        }
+      ],
+      "ratingKinopoisk": 7,
+      "ratingImdb": 7.4,
+      "year": 2007,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/325598.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/325598.jpg"
+    },
+    {
+      "kinopoiskId": 55945,
+      "imdbId": "tt0089885",
+      "nameRu": "Реаниматор",
+      "nameEn": null,
+      "nameOriginal": "Re-Animator",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "фантастика"
+        },
+        {
+          "genre": "комедия"
+        },
+        {
+          "genre": "ужасы"
+        }
+      ],
+      "ratingKinopoisk": 7,
+      "ratingImdb": 7.2,
+      "year": 1985,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/55945.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/55945.jpg"
+    },
+    {
+      "kinopoiskId": 261636,
+      "imdbId": "tt0816711",
+      "nameRu": "Война миров Z",
+      "nameEn": null,
+      "nameOriginal": "World War Z",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "фантастика"
+        },
+        {
+          "genre": "приключения"
+        },
+        {
+          "genre": "боевик"
+        },
+        {
+          "genre": "ужасы"
+        }
+      ],
+      "ratingKinopoisk": 7,
+      "ratingImdb": 7,
+      "year": 2013,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/261636.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/261636.jpg"
+    },
+    {
+      "kinopoiskId": 9917,
+      "imdbId": "tt0088993",
+      "nameRu": "День мертвецов",
+      "nameEn": null,
+      "nameOriginal": "Day of the Dead",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "триллер"
+        },
+        {
+          "genre": "ужасы"
+        }
+      ],
+      "ratingKinopoisk": 6.8,
+      "ratingImdb": 7.1,
+      "year": 1985,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/9917.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/9917.jpg"
+    },
+    {
+      "kinopoiskId": 497077,
+      "imdbId": "tt1588173",
+      "nameRu": "Тепло наших тел",
+      "nameEn": null,
+      "nameOriginal": "Warm Bodies",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Канада"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "мелодрама"
+        },
+        {
+          "genre": "комедия"
+        },
+        {
+          "genre": "ужасы"
+        }
+      ],
+      "ratingKinopoisk": 6.9,
+      "ratingImdb": 6.8,
+      "year": 2013,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/497077.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/497077.jpg"
+    },
+    {
+      "kinopoiskId": 95434,
+      "imdbId": "tt0080057",
+      "nameRu": "Зомби 2",
+      "nameEn": null,
+      "nameOriginal": "Zombi 2",
+      "countries": [
+        {
+          "country": "Италия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "ужасы"
+        }
+      ],
+      "ratingKinopoisk": 6.7,
+      "ratingImdb": 6.8,
+      "year": 1979,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/95434.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/95434.jpg"
+    },
+    {
+      "kinopoiskId": 24186,
+      "imdbId": "tt0318627",
+      "nameRu": "Обитель зла 2: Апокалипсис",
+      "nameEn": null,
+      "nameOriginal": "Resident Evil: Apocalypse",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Франция"
+        },
+        {
+          "country": "Великобритания"
+        },
+        {
+          "country": "Германия"
+        },
+        {
+          "country": "Канада"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "фантастика"
+        },
+        {
+          "genre": "боевик"
+        },
+        {
+          "genre": "ужасы"
+        }
+      ],
+      "ratingKinopoisk": 6.8,
+      "ratingImdb": 6.1,
+      "year": 2004,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/24186.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/24186.jpg"
+    },
+    {
+      "kinopoiskId": 32282,
+      "imdbId": "tt0023694",
+      "nameRu": "Белый зомби",
+      "nameEn": null,
+      "nameOriginal": "White Zombie",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "ужасы"
+        }
+      ],
+      "ratingKinopoisk": 6.5,
+      "ratingImdb": 6.2,
+      "year": 1932,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/32282.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/32282.jpg"
+    },
+    {
+      "kinopoiskId": 273063,
+      "imdbId": "tt1077258",
+      "nameRu": "Планета страха",
+      "nameEn": null,
+      "nameOriginal": "Planet Terror",
+      "countries": [
+        {
+          "country": "США"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "триллер"
+        },
+        {
+          "genre": "фантастика"
+        },
+        {
+          "genre": "приключения"
+        },
+        {
+          "genre": "боевик"
+        },
+        {
+          "genre": "комедия"
+        },
+        {
+          "genre": "ужасы"
+        }
+      ],
+      "ratingKinopoisk": 6.7,
+      "ratingImdb": 7,
+      "year": 2007,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/273063.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/273063.jpg"
+    },
+    {
+      "kinopoiskId": 222496,
+      "imdbId": "tt0081318",
+      "nameRu": "Город живых мертвецов",
+      "nameEn": null,
+      "nameOriginal": "Paura nella città dei morti viventi",
+      "countries": [
+        {
+          "country": "Италия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "ужасы"
+        }
+      ],
+      "ratingKinopoisk": 6.5,
+      "ratingImdb": 6.2,
+      "year": 1980,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/222496.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/222496.jpg"
+    },
+    {
+      "kinopoiskId": 417895,
+      "imdbId": "tt1245112",
+      "nameRu": "Репортаж из преисподней",
+      "nameEn": null,
+      "nameOriginal": "[Rec]²",
+      "countries": [
+        {
+          "country": "Испания"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "триллер"
+        },
+        {
+          "genre": "ужасы"
+        }
+      ],
+      "ratingKinopoisk": 6.6,
+      "ratingImdb": 6.5,
+      "year": 2009,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/417895.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/417895.jpg"
+    },
+    {
+      "kinopoiskId": 88172,
+      "imdbId": "tt0432021",
+      "nameRu": "Обитель зла 3",
+      "nameEn": null,
+      "nameOriginal": "Resident Evil: Extinction",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Франция"
+        },
+        {
+          "country": "Великобритания"
+        },
+        {
+          "country": "Германия"
+        },
+        {
+          "country": "Австралия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "триллер"
+        },
+        {
+          "genre": "фантастика"
+        },
+        {
+          "genre": "боевик"
+        },
+        {
+          "genre": "ужасы"
+        }
+      ],
+      "ratingKinopoisk": 6.6,
+      "ratingImdb": 6.2,
+      "year": 2007,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/88172.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/88172.jpg"
+    },
+    {
+      "kinopoiskId": 195870,
+      "imdbId": "tt0455407",
+      "nameRu": "Безумцы",
+      "nameEn": null,
+      "nameOriginal": "The Crazies",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "ОАЭ"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "ужасы"
+        }
+      ],
+      "ratingKinopoisk": 6.4,
+      "ratingImdb": 6.5,
+      "year": 2010,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/195870.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/195870.jpg"
+    },
+    {
+      "kinopoiskId": 397229,
+      "imdbId": "tt1082868",
+      "nameRu": "Карантин",
+      "nameEn": null,
+      "nameOriginal": "Quarantine",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Испания"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "триллер"
+        },
+        {
+          "genre": "фантастика"
+        },
+        {
+          "genre": "ужасы"
+        }
+      ],
+      "ratingKinopoisk": 6.3,
+      "ratingImdb": 5.9,
+      "year": 2008,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/397229.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/397229.jpg"
+    },
+    {
+      "kinopoiskId": 62623,
+      "imdbId": "tt0378417",
+      "nameRu": "Ночь живых придурков",
+      "nameEn": null,
+      "nameOriginal": "Die Nacht der lebenden Loser",
+      "countries": [
+        {
+          "country": "Германия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "комедия"
+        },
+        {
+          "genre": "ужасы"
+        }
+      ],
+      "ratingKinopoisk": 6.2,
+      "ratingImdb": 5.6,
+      "year": 2004,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/62623.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/62623.jpg"
+    },
+    {
+      "kinopoiskId": 81601,
+      "imdbId": "tt0418819",
+      "nameRu": "Земля мертвых",
+      "nameEn": null,
+      "nameOriginal": "Land of the Dead",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Франция"
+        },
+        {
+          "country": "Канада"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "ужасы"
+        }
+      ],
+      "ratingKinopoisk": 6.2,
+      "ratingImdb": 6.2,
+      "year": 2005,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/81601.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/81601.jpg"
+    },
+    {
+      "kinopoiskId": 409208,
+      "imdbId": "tt1220634",
+      "nameRu": "Обитель зла 4: Жизнь после смерти 3D",
+      "nameEn": null,
+      "nameOriginal": "Resident Evil: Afterlife",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Германия"
+        },
+        {
+          "country": "Канада"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "фантастика"
+        },
+        {
+          "genre": "приключения"
+        },
+        {
+          "genre": "боевик"
+        },
+        {
+          "genre": "ужасы"
+        }
+      ],
+      "ratingKinopoisk": 6.1,
+      "ratingImdb": 5.8,
+      "year": 2010,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/409208.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/409208.jpg"
+    },
+    {
+      "kinopoiskId": 260981,
+      "imdbId": "tt0848557",
+      "nameRu": "Дневники мертвецов",
+      "nameEn": null,
+      "nameOriginal": "Diary of the Dead",
+      "countries": [
+        {
+          "country": "США"
+        },
+        {
+          "country": "Канада"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "триллер"
+        },
+        {
+          "genre": "фантастика"
+        },
+        {
+          "genre": "фэнтези"
+        },
+        {
+          "genre": "ужасы"
+        }
+      ],
+      "ratingKinopoisk": 5.8,
+      "ratingImdb": 5.5,
+      "year": 2007,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/260981.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/260981.jpg"
+    },
+    {
+      "kinopoiskId": 426314,
+      "imdbId": "tt1278340",
+      "nameRu": "Операция «Мертвый снег»",
+      "nameEn": null,
+      "nameOriginal": "Død snø",
+      "countries": [
+        {
+          "country": "Норвегия"
+        }
+      ],
+      "genres": [
+        {
+          "genre": "боевик"
+        },
+        {
+          "genre": "комедия"
+        },
+        {
+          "genre": "ужасы"
+        }
+      ],
+      "ratingKinopoisk": 5.8,
+      "ratingImdb": 6.3,
+      "year": 2009,
+      "type": "FILM",
+      "posterUrl": "https://kinopoiskapiunofficial.tech/images/posters/kp/426314.jpg",
+      "posterUrlPreview": "https://kinopoiskapiunofficial.tech/images/posters/kp_small/426314.jpg"
+    }
+  ]
+}

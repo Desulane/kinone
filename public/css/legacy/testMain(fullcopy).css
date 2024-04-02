@@ -1,0 +1,62 @@
+.buttons {
+    height: 100%;
+    
+    display: flex;
+    flex-direction: column;
+
+    align-items: center;
+    margin-top: 10px;
+}
+.buttons h1 {
+    font-size: 28px;
+    text-align: center;
+}
+.buttons button {
+    width: 100%;
+    
+    padding: 16px 8px;
+    margin-bottom: 12px;
+
+    color: #E5E5E5;
+    background-color: #1E2786;
+
+    border: none;
+    border-radius: 40px;
+
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+
+    transition: background-color 0.4s ease;
+}
+
+.buttons button:hover {
+    background-color: #3632a0;
+}
+
+.img__container {
+    position: relative;
+    overflow: hidden;
+    margin: -20px;
+}
+
+.img__container img {
+    object-fit: cover;
+
+    width: calc(100% + 40px);
+}
+
+.img__shadow {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 120px;
+    background: linear-gradient(to top, rgba(0,0,0,1) 0%, transparent 100%);
+}
+
+
+
+
+
+
+
