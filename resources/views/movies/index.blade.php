@@ -39,7 +39,13 @@
         const movieContainer = document.getElementById('movies-container');
         const currentMovie = movies[currentMovieIndex];
         const imageQuality = "{{ auth()->user()->image_quality }}";
-        const nonYoutubeTrailers = currentMovie.trailers.filter(trailer => trailer.site !== 'YOUTUBE');
+        let nonYoutubeTrailers
+        let allTrailers
+        if (currentMovie.trailers){
+            nonYoutubeTrailers = currentMovie.trailers.filter(trailer => trailer.site !== 'YOUTUBE');
+            allTrailers = currentMovie.trailers.filter(trailer => trailer.name === 'Трейлер')
+        }
+
 
         if (currentMovie) {
             // Проверяем, есть ли запись о текущем фильме для текущего пользователя и сессии
@@ -51,9 +57,9 @@
                     return response.json();
                 })
                 .then(data => {
-                    if (!data.movieExists) {
-                        // Если фильм еще не оценен, отображаем его
-                        movieContainer.innerHTML = `
+                        if (!data.movieExists) {
+                            // Если фильм еще не оценен, отображаем его
+                            movieContainer.innerHTML = `
                             <div class="popup" id="myModal">
                                 <span class="close" onclick="document.getElementById('myModal').style.display='none'">&times;</span>
                                 <p id="popupText">${currentMovie.description}</p>
@@ -65,7 +71,10 @@
 
                             <h2>${currentMovie.nameRu}</h2>
                             <div class="container">
-                                <button class="abc" onclick="">Трейлер</button>
+                                ${nonYoutubeTrailers ?
+                                `<button class="abc" onclick="window.location.href = '${nonYoutubeTrailers[0].url}'">Трейлер</button>` :
+                                `<button class="abc disabled">Трейлер отсутствует</button>`
+                            }
                             </div>
                             <div class="rating">
                             <p>${currentMovie.year}</p>
@@ -79,12 +88,13 @@
                                 <button class="dislike" onclick="dislikeMovie(${currentMovie.kinopoiskId})">Не смотрим</button>
                                 <button class="button" onclick="likeMovie(${currentMovie.kinopoiskId})">Смотрим</button>
                             </div>
-                        `;
-                    } else {
-                        // Если фильм уже оценен, переходим к следующему
-                        nextMovie();
+                            `;
+                        } else {
+                            // Если фильм уже оценен, переходим к следующему
+                            nextMovie();
+                        }
                     }
-                })
+                )
                 .catch(error => {
                     console.error('Fetch error:', error);
                 });
@@ -178,7 +188,7 @@
     }
 
     // Обработчик события клика на весь документ
-    window.addEventListener('click', function(event) {
+    window.addEventListener('click', function (event) {
         var modal = document.getElementById('myModal');
         // Если клик произошел вне модального окна, закрываем его
         if (event.target === modal) {
