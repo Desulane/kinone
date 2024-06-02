@@ -93,7 +93,7 @@ class SessionController extends Controller
             ->get();
 
         // Получаем содержимое movies.json
-        $moviesJson = json_decode(Storage::get('MOVIES.json'), true);
+        $moviesJson = json_decode(file_get_contents(public_path('movies.json')), true);
 
         // Теперь для каждого movie_id найдем соответствующий объект фильма в movies.json
         $likedMoviesWithData = collect($likedMovies)->map(function ($movie) use ($moviesJson) {
