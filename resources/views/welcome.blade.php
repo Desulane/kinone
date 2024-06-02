@@ -21,17 +21,19 @@
             </form>
 
             <!-- Список созданных сессий, если они существуют -->
-            @if (count(auth()->user()->sessions) > 0)
+            @if (count(auth()->user()->sessions->where('user_id', '==', auth()->user()->id)) > 0)
                 <p>Ваши сессии:</p>
                 <ul>
-                    @foreach (auth()->user()->sessions as $createdSession)
+                    @foreach (auth()->user()->sessions->where('user_id', '==', auth()->user()->id) as $session)
                         <li>
-                            <a href="{{ route('session.show', $createdSession) }}">
-                                {{ $createdSession->session_name }}
+                            <a href="{{ route('session.show', $session) }}">
+                                {{ $session->session_name }}
                             </a>
                         </li>
                     @endforeach
                 </ul>
+            @else
+                <p>Вы не создали ни одной сессии</p>
             @endif
 
             <!-- Форма присоединения к сессии -->
@@ -42,16 +44,18 @@
 
             <!-- Список присоединенных сессий, если они существуют -->
             @if (count(auth()->user()->sessions->where('user_id', '!=', auth()->user()->id)) > 0)
-                <p>Присоединенные сессии:</p>
+                <p>Сессии, к которым вы присоединились:</p>
                 <ul>
                     @foreach (auth()->user()->sessions->where('user_id', '!=', auth()->user()->id) as $session)
                         <li>
                             <a href="{{ route('session.show', $session) }}">
-                                Сессия {{ $session->id }}
+                                {{ $session->session_name }}
                             </a>
                         </li>
                     @endforeach
                 </ul>
+            @else
+                <p>Вы не присоединились ни к одной сессии</p>
             @endif
         </div>
     </div>

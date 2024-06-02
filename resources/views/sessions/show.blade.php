@@ -13,7 +13,7 @@
     <button class="close" onclick="window.location.href = '{{ url('/') }}'"></button>
     <div class="content">
         <div>
-            <h1>Сеанс</h1>
+            <h1>{{ $session->session_name }}</h1>
             @if($isCreator)
                 <div class="session">
                     <input class="invite-code" type="text" value="{{ $session->invitation_code }}" readonly>

@@ -52,7 +52,6 @@ class MovieController extends Controller
         $this->authorize('join', $session);
 
         $user = Auth::user();
-
         $kinopoiskId = $request->input('kinopoiskId');
         $reaction = $request->input('reaction');
 
@@ -65,9 +64,10 @@ class MovieController extends Controller
             'updated_at' => now(),
         ]);
 
-        $isLikedByAll = $this->checkIfMovieLikedByAll($session, $request->kinopoiskId);
+        $isLikedByAll = $this->checkIfMovieLikedByAll($session, $kinopoiskId);
         return response()->json(['success' => true, 'isLikedByAll' => $isLikedByAll]);
     }
+
 
     protected function checkIfMovieLikedByAll(Session $session, $kinopoiskId)
     {
